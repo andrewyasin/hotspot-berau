@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Monitor Titik Panas Kabupaten Berau</title>
+<meta name="description" content="Pemantauan sebaran titik panas (hotspot) di Kabupaten Berau, disaring dari data satelit BMKG Kalimantan Timur.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<style>
+  :root{
+    --hijau-tua: #00512A;
+    --hijau: #00923F;
+    --emas: #E8B900;
+    --krem: #F7F5EF;
+    --arang: #1C2620;
+    --arang-lembut: #4A5750;
+    --garis: #E1DDD0;
+    --rendah: #E8B900;
+    --sedang: #E8720C;
+    --tinggi: #B3261E;
+    --radius: 10px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--krem);
+    color:var(--arang);
+    font-family:'Inter',sans-serif;
+    line-height:1.5;
+  }
+  h1,h2,h3,.angka-besar{font-family:'Fraunces',serif;}
+  a{color:var(--hijau-tua);}
+
+  header.top{
+    background:var(--hijau-tua);
+    color:#fff;
+    padding:14px 24px;
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+    border-bottom:4px solid var(--emas);
+  }
+  header.top .instansi{font-size:13px;opacity:.85;letter-spacing:.02em;}
+  header.top .judul{font-family:'Fraunces',serif;font-size:19px;font-weight:600;}
+
+  main{max-width:1080px;margin:0 auto;padding:0 20px 60px;}
+
+  section.hero{
+    padding:40px 0 28px;
+    border-bottom:1px solid var(--garis);
+  }
+  .hero-grid{display:flex;flex-wrap:wrap;gap:36px;align-items:flex-end;}
+  .hero-angka{flex:0 0 auto;}
+  .angka-besar{font-size:76px;font-weight:700;line-height:1;color:var(--hijau-tua);}
+  .angka-label{font-size:15px;color:var(--arang-lembut);margin-top:6px;max-width:260px;}
+  .hero-rincian{flex:1 1 260px;min-width:220px;}
+  .hero-rincian p{margin:0 0 10px;font-size:14px;color:var(--arang-lembut);}
+  .tingkat-bar{display:flex;gap:14px;flex-wrap:wrap;}
+  .tingkat-item{display:flex;align-items:center;gap:7px;font-size:14px;}
+  .dot{width:11px;height:11px;border-radius:50%;display:inline-block;}
+  .dot.rendah{background:var(--rendah);}
+  .dot.sedang{background:var(--sedang);}
+  .dot.tinggi{background:var(--tinggi);}
+  .diperbarui{font-size:12.5px;color:var(--arang-lembut);margin-top:18px;}
+
+  section.blok{padding:34px 0;border-bottom:1px solid var(--garis);}
+  section.blok h2{font-size:21px;font-weight:600;margin:0 0 4px;color:var(--arang);}
+  section.blok .keterangan{font-size:13.5px;color:var(--arang-lembut);margin:0 0 18px;max-width:640px;}
+
+  #peta{height:420px;border-radius:var(--radius);border:1px solid var(--garis);}
+  .legenda-peta{display:flex;gap:16px;margin-top:10px;font-size:13px;color:var(--arang-lembut);flex-wrap:wrap;}
+
+  .grid-2{display:grid;grid-template-columns:1.3fr 1fr;gap:28px;}
+  @media (max-width:760px){.grid-2{grid-template-columns:1fr;}}
+
+  canvas{max-width:100%;}
+  .chart-wrap{position:relative;height:280px;}
+
+  .catatan-data{font-size:13px;color:var(--arang-lembut);background:#fff;border:1px dashed var(--garis);border-radius:var(--radius);padding:12px 14px;margin-top:14px;}
+
+  table{width:100%;border-collapse:collapse;font-size:13.5px;background:#fff;border-radius:var(--radius);overflow:hidden;}
+  thead th{text-align:left;background:var(--hijau-tua);color:#fff;padding:9px 12px;font-weight:600;}
+  tbody td{padding:8px 12px;border-bottom:1px solid var(--garis);}
+  tbody tr:last-child td{border-bottom:none;}
+  .pill{display:inline-block;padding:2px 9px;border-radius:99px;font-size:12px;font-weight:600;color:#fff;}
+  .pill.rendah{background:var(--rendah);color:#3a2c00;}
+  .pill.sedang{background:var(--sedang);}
+  .pill.tinggi{background:var(--tinggi);}
+
+  .kontrol-tabel{display:flex;gap:10px;margin-bottom:12px;flex-wrap:wrap;}
+  .kontrol-tabel input, .kontrol-tabel select{
+    font-family:'Inter',sans-serif;font-size:13.5px;padding:7px 10px;border:1px solid var(--garis);border-radius:7px;background:#fff;
+  }
+  .kontrol-tabel input{flex:1;min-width:160px;}
+
+  footer{max-width:1080px;margin:0 auto;padding:24px 20px 40px;font-size:12.5px;color:var(--arang-lembut);}
+  footer a{color:var(--hijau-tua);}
+
+  .status-muat{font-size:13px;color:var(--arang-lembut);padding:30px 0;}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="instansi">Diskominfo Kabupaten Berau &middot; Bidang Persandian dan Statistik</div>
+  <div class="judul">Monitor Titik Panas Berau</div>
+</header>
+
+<main>
+
+  <section class="hero">
+    <div class="hero-grid">
+      <div class="hero-angka">
+        <div class="angka-besar" id="angka-total">&mdash;</div>
+        <div class="angka-label">titik panas terpantau di Kabupaten Berau</div>
+      </div>
+      <div class="hero-rincian">
+        <p id="ringkas-kecamatan">Memuat data&hellip;</p>
+        <div class="tingkat-bar" id="tingkat-bar"></div>
+      </div>
+    </div>
+    <div class="diperbarui" id="diperbarui"></div>
+  </section>
+
+  <section class="blok">
+    <h2>Sebaran titik panas</h2>
+    <p class="keterangan">Lokasi tiap titik panas yang terdeteksi satelit hari ini, diwarnai menurut tingkat kepercayaan deteksi.</p>
+    <div id="peta"></div>
+    <div class="legenda-peta">
+      <span><span class="dot rendah"></span> Rendah</span>
+      <span><span class="dot sedang"></span> Sedang</span>
+      <span><span class="dot tinggi"></span> Tinggi</span>
+    </div>
+  </section>
+
+  <section class="blok">
+    <div class="grid-2">
+      <div>
+        <h2>Tren harian</h2>
+        <p class="keterangan">Jumlah titik panas di Berau per hari sejak dashboard mulai mencatat.</p>
+        <div class="chart-wrap"><canvas id="chart-tren"></canvas></div>
+        <div class="catatan-data" id="catatan-tren"></div>
+      </div>
+      <div>
+        <h2>Per kecamatan</h2>
+        <p class="keterangan">Akumulasi titik panas hari ini, per kecamatan.</p>
+        <div class="chart-wrap"><canvas id="chart-kecamatan"></canvas></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="blok" style="border-bottom:none;">
+    <h2>Data titik panas hari ini</h2>
+    <p class="keterangan">Data mentah hasil penyaringan Kabupaten Berau dari API BMKG Kaltim.</p>
+    <div class="kontrol-tabel">
+      <input type="text" id="cari" placeholder="Cari kecamatan, satelit, atau jam&hellip;">
+      <select id="filter-level">
+        <option value="">Semua tingkat</option>
+        <option value="Rendah">Rendah</option>
+        <option value="Sedang">Sedang</option>
+        <option value="Tinggi">Tinggi</option>
+      </select>
+    </div>
+    <table>
+      <thead>
+        <tr><th>Kecamatan</th><th>Jam (WITA)</th><th>Tingkat</th><th>Satelit</th><th>Koordinat</th></tr>
+      </thead>
+      <tbody id="tabel-body"></tbody>
+    </table>
+  </section>
+
+</main>
+
+<footer>
+  Data bersumber dari <a href="https://kaltim.bmkg.go.id/koordinat-hotspot" target="_blank" rel="noopener">BMKG Wilayah III Kalimantan Timur</a>, disaring khusus untuk Kabupaten Berau.
+  Titik panas satelit adalah indikasi awal, bukan konfirmasi kebakaran di lapangan &mdash; verifikasi lanjutan dilakukan oleh BPBD/Manggala Agni setempat.
+  Diperbarui otomatis secara berkala.
+</footer>
+
+<script>
+const WARNA_LEVEL = { "Rendah": "#E8B900", "Sedang": "#E8720C", "Tinggi": "#B3261E" };
+
+function fmtWaktuWITA(iso){
+  if(!iso) return "\u2014";
+  const d = new Date(iso);
+  return d.toLocaleString('id-ID', { timeZone:'Asia/Makassar', day:'2-digit', month:'short', year:'numeric', hour:'2-digit', minute:'2-digit' }) + ' WITA';
+}
+
+async function muatData(){
+  const [latestRes, historyRes] = await Promise.all([
+    fetch('data/latest.json'),
+    fetch('data/history.json')
+  ]);
+  const latest = await latestRes.json();
+  const history = await historyRes.json();
+  renderHero(latest);
+  renderPeta(latest.points);
+  renderTren(history);
+  renderKecamatan(latest.points);
+  renderTabel(latest.points);
+}
+
+function renderHero(latest){
+  document.getElementById('angka-total').textContent = latest.totalBerau ?? latest.points.length;
+  const kecSet = new Set(latest.points.map(p => p.kecamatan));
+  document.getElementById('ringkas-kecamatan').textContent =
+    `Tersebar di ${kecSet.size} kecamatan, dari ${latest.totalKaltim ?? '\u2014'} titik panas se-Kalimantan Timur hari ini.`;
+
+  const counts = {Rendah:0, Sedang:0, Tinggi:0};
+  latest.points.forEach(p => { const l = p.levelName || p.level; if(counts[l] !== undefined) counts[l]++; });
+  const bar = document.getElementById('tingkat-bar');
+  bar.innerHTML = Object.entries(counts).map(([k,v]) =>
+    `<span class="tingkat-item"><span class="dot ${k.toLowerCase()}"></span>${k}: ${v}</span>`).join('');
+
+  document.getElementById('diperbarui').textContent = `Data per: ${fmtWaktuWITA(latest.updatedAt)}`;
+}
+
+function renderPeta(points){
+  const peta = L.map('peta', { scrollWheelZoom:false }).setView([1.9, 117.6], 8);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors', maxZoom: 14
+  }).addTo(peta);
+
+  points.forEach(p => {
+    const warna = WARNA_LEVEL[p.levelName] || '#888';
+    L.circleMarker([p.lat, p.lon], {
+      radius: 6, color: warna, weight: 1, fillColor: warna, fillOpacity: 0.85
+    }).addTo(peta).bindPopup(`<b>${p.kecamatan}</b><br>Tingkat: ${p.levelName}<br>Satelit: ${p.satelit}<br>Jam: ${p.waktu} WITA`);
+  });
+
+  if(points.length){
+    const bounds = points.map(p => [p.lat, p.lon]);
+    peta.fitBounds(bounds, { padding:[24,24] });
+  }
+}
+
+function renderTren(history){
+  const catatan = document.getElementById('catatan-tren');
+  if(history.length < 7){
+    catatan.textContent = `Baru ${history.length} hari data terkumpul \u2014 grafik akan lebih bermakna setelah beberapa minggu pencatatan otomatis berjalan.`;
+  } else {
+    catatan.textContent = '';
+  }
+  new Chart(document.getElementById('chart-tren'), {
+    type:'line',
+    data:{
+      labels: history.map(h => h.date.slice(5)),
+      datasets:[{
+        label:'Titik panas',
+        data: history.map(h => h.total),
+        borderColor:'#00923F', backgroundColor:'rgba(0,146,63,0.12)',
+        fill:true, tension:0.25, pointRadius:3
+      }]
+    },
+    options:{
+      responsive:true, maintainAspectRatio:false,
+      plugins:{legend:{display:false}},
+      scales:{ y:{ beginAtZero:true, ticks:{precision:0} } }
+    }
+  });
+}
+
+function renderKecamatan(points){
+  const counts = {};
+  points.forEach(p => { counts[p.kecamatan] = (counts[p.kecamatan]||0)+1; });
+  const entries = Object.entries(counts).sort((a,b)=>b[1]-a[1]);
+  new Chart(document.getElementById('chart-kecamatan'), {
+    type:'bar',
+    data:{
+      labels: entries.map(e=>e[0]),
+      datasets:[{ data: entries.map(e=>e[1]), backgroundColor:'#E8B900' }]
+    },
+    options:{
+      indexAxis:'y', responsive:true, maintainAspectRatio:false,
+      plugins:{legend:{display:false}},
+      scales:{ x:{ beginAtZero:true, ticks:{precision:0} } }
+    }
+  });
+}
+
+let SEMUA_TITIK = [];
+function renderTabel(points){
+  SEMUA_TITIK = points;
+  gambarBaris(points);
+  document.getElementById('cari').addEventListener('input', terapkanFilter);
+  document.getElementById('filter-level').addEventListener('change', terapkanFilter);
+}
+function terapkanFilter(){
+  const q = document.getElementById('cari').value.toLowerCase();
+  const lvl = document.getElementById('filter-level').value;
+  const hasil = SEMUA_TITIK.filter(p =>
+    (!lvl || p.levelName === lvl) &&
+    (!q || `${p.kecamatan} ${p.satelit} ${p.waktu}`.toLowerCase().includes(q))
+  );
+  gambarBaris(hasil);
+}
+function gambarBaris(points){
+  const body = document.getElementById('tabel-body');
+  if(!points.length){
+    body.innerHTML = '<tr><td colspan="5" style="text-align:center;color:var(--arang-lembut);">Tidak ada data yang cocok.</td></tr>';
+    return;
+  }
+  body.innerHTML = points.map(p => `
+    <tr>
+      <td>${p.kecamatan}</td>
+      <td>${p.waktu}</td>
+      <td><span class="pill ${(p.levelName||'').toLowerCase()}">${p.levelName}</span></td>
+      <td>${p.satelit}</td>
+      <td>${p.lat.toFixed(4)}, ${p.lon.toFixed(4)}</td>
+    </tr>`).join('');
+}
+
+muatData().catch(err => {
+  document.querySelector('main').innerHTML = `<p class="status-muat">Gagal memuat data: ${err.message}. Coba muat ulang halaman.</p>`;
+  console.error(err);
+});
+</script>
+
+</body>
+</html>
