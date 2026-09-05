@@ -2,7 +2,7 @@
 
 Dashboard publik yang memantau sebaran titik panas (hotspot) di Kabupaten Berau, disaring dari data satelit BMKG Wilayah III Kalimantan Timur. Dibangun sebagai proyek portofolio profil lulusan **Data Analyst**: analisis deskriptif dan komunikasi temuan dari data yang bersumber otomatis.
 
-Live: `https://andrewyasin.github.io/hotspot-berau/` (isi setelah deploy)
+Live: https://andrewyasin.github.io/hotspot-berau/
 
 ## Sumber data
 
