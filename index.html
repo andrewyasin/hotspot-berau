@@ -78,6 +78,19 @@
 
   #peta{height:420px;border-radius:var(--radius);border:1px solid var(--garis);}
   .legenda-peta{display:flex;gap:16px;margin-top:10px;font-size:13px;color:var(--arang-lembut);flex-wrap:wrap;}
+  .label-kecamatan span{
+    display:inline-block;
+    transform:translate(-50%,-130%);
+    background:rgba(255,253,246,0.92);
+    border:1px solid var(--garis);
+    color:var(--arang);
+    font-size:11px;
+    font-weight:600;
+    padding:2px 7px;
+    border-radius:5px;
+    white-space:nowrap;
+    box-shadow:0 1px 3px rgba(0,0,0,0.12);
+  }
 
   .grid-2{display:grid;grid-template-columns:1.3fr 1fr;gap:28px;}
   @media (max-width:760px){.grid-2{grid-template-columns:1fr;}}
@@ -237,6 +250,26 @@ function renderPeta(points){
     }).addTo(peta).bindPopup(`<b>${p.kecamatan}</b><br>Tingkat: ${p.levelName}<br>Satelit: ${p.satelit}<br>Jam: ${p.waktu} WITA`);
   });
 
+  // Label nama kecamatan di titik tengah tiap klaster, biar langsung kelihatan tanpa perlu klik
+  const grup = {};
+  points.forEach(p => {
+    if(!grup[p.kecamatan]) grup[p.kecamatan] = { lat:0, lon:0, n:0 };
+    grup[p.kecamatan].lat += p.lat;
+    grup[p.kecamatan].lon += p.lon;
+    grup[p.kecamatan].n += 1;
+  });
+  Object.entries(grup).forEach(([kec, g]) => {
+    L.marker([g.lat / g.n, g.lon / g.n], {
+      icon: L.divIcon({
+        className: 'label-kecamatan',
+        html: `<span>${kec}</span>`,
+        iconSize: [1, 1],
+        iconAnchor: [0, 0]
+      }),
+      interactive: false
+    }).addTo(peta);
+  });
+
   if(points.length){
     const bounds = points.map(p => [p.lat, p.lon]);
     peta.fitBounds(bounds, { padding:[24,24] });
@@ -244,12 +277,6 @@ function renderPeta(points){
 }
 
 function renderTren(history){
-  const catatan = document.getElementById('catatan-tren');
-  if(history.length < 7){
-    catatan.textContent = `Baru ${history.length} hari data terkumpul \u2014 grafik akan lebih bermakna setelah beberapa minggu pencatatan otomatis berjalan.`;
-  } else {
-    catatan.textContent = '';
-  }
   new Chart(document.getElementById('chart-tren'), {
     type:'line',
     data:{
