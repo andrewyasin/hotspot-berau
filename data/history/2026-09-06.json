@@ -84,6 +84,18 @@
     "waktu": "00:49"
   },
   {
+    "lat": 2.1801,
+    "lon": 117.2909,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-09-06",
+    "waktu": "15:09"
+  },
+  {
     "lat": 2.1922,
     "lon": 117.2982,
     "confidence": 8,
@@ -154,6 +166,18 @@
     "kecamatan": "KELAY",
     "tanggal": "2026-09-06",
     "waktu": "02:49"
+  },
+  {
+    "lat": 1.5644,
+    "lon": 117.168,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "KELAY",
+    "tanggal": "2026-09-06",
+    "waktu": "15:09"
   },
   {
     "lat": 1.4431,
@@ -288,6 +312,42 @@
     "waktu": "00:49"
   },
   {
+    "lat": 1.4525,
+    "lon": 117.2498,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "KELAY",
+    "tanggal": "2026-09-06",
+    "waktu": "13:31"
+  },
+  {
+    "lat": 1.4592,
+    "lon": 117.249,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "KELAY",
+    "tanggal": "2026-09-06",
+    "waktu": "13:31"
+  },
+  {
+    "lat": 1.4556,
+    "lon": 117.2526,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "KELAY",
+    "tanggal": "2026-09-06",
+    "waktu": "13:31"
+  },
+  {
     "lat": 2.3192,
     "lon": 117.9518,
     "confidence": 8,
@@ -310,6 +370,66 @@
     "kecamatan": "PULAU DERAWAN",
     "tanggal": "2026-09-06",
     "waktu": "02:49"
+  },
+  {
+    "lat": 2.2608,
+    "lon": 117.9859,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-06",
+    "waktu": "15:09"
+  },
+  {
+    "lat": 2.2448,
+    "lon": 117.8775,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-06",
+    "waktu": "15:09"
+  },
+  {
+    "lat": 2.2731,
+    "lon": 117.9841,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-06",
+    "waktu": "15:09"
+  },
+  {
+    "lat": 2.267,
+    "lon": 117.9967,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-06",
+    "waktu": "15:09"
+  },
+  {
+    "lat": 2.2936,
+    "lon": 117.9183,
+    "confidence": 7,
+    "level": "rendah",
+    "levelName": "Rendah",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-06",
+    "waktu": "15:09"
   },
   {
     "lat": 2.2563,
@@ -2064,6 +2184,30 @@
     "waktu": "00:49"
   },
   {
+    "lat": 2.295,
+    "lon": 117.1514,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-09-06",
+    "waktu": "13:31"
+  },
+  {
+    "lat": 2.3327,
+    "lon": 116.9868,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-09-06",
+    "waktu": "13:31"
+  },
+  {
     "lat": 1.6113,
     "lon": 117.9758,
     "confidence": 8,
@@ -2434,5 +2578,17 @@
     "kecamatan": "TELUK BAYUR",
     "tanggal": "2026-09-06",
     "waktu": "00:49"
+  },
+  {
+    "lat": 2.0038,
+    "lon": 117.2515,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TELUK BAYUR",
+    "tanggal": "2026-09-06",
+    "waktu": "13:31"
   }
 ]
