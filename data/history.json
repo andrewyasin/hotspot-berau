@@ -66,12 +66,12 @@
   },
   {
     "date": "2026-09-07",
-    "total": 361,
+    "total": 384,
     "by_kecamatan": {
-      "PULAU DERAWAN": 130,
-      "SEGAH": 74,
-      "KELAY": 45,
-      "GUNUNG TABUR": 41,
+      "PULAU DERAWAN": 140,
+      "SEGAH": 81,
+      "KELAY": 49,
+      "GUNUNG TABUR": 43,
       "SAMBALIUNG": 38,
       "TABALAR": 10,
       "TALISAYAN": 10,
@@ -80,9 +80,9 @@
       "BIATAN": 3
     },
     "by_level": {
-      "Sedang": 347,
-      "Rendah": 11,
-      "Tinggi": 3
+      "Sedang": 361,
+      "Rendah": 14,
+      "Tinggi": 9
     }
   }
 ]
