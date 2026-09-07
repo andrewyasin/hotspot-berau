@@ -21,8 +21,8 @@
     --arang: #1F2A22;
     --arang-lembut: #55625A;
     --garis: #E6E2D2;
-    --rendah: #FFC72C;
-    --sedang: #FF8A1E;
+    --rendah: #3CB043;
+    --sedang: #F5C518;
     --tinggi: #E4402E;
     --radius: 10px;
   }
@@ -98,15 +98,13 @@
   canvas{max-width:100%;}
   .chart-wrap{position:relative;height:280px;}
 
-  .catatan-data{font-size:13px;color:var(--arang-lembut);background:#fff;border:1px dashed var(--garis);border-radius:var(--radius);padding:12px 14px;margin-top:14px;}
-
   table{width:100%;border-collapse:collapse;font-size:13.5px;background:#fff;border-radius:var(--radius);overflow:hidden;}
   thead th{text-align:left;background:var(--hijau-tua);color:#fff;padding:9px 12px;font-weight:600;}
   tbody td{padding:8px 12px;border-bottom:1px solid var(--garis);}
   tbody tr:last-child td{border-bottom:none;}
   .pill{display:inline-block;padding:2px 9px;border-radius:99px;font-size:12px;font-weight:600;color:#fff;}
-  .pill.rendah{background:var(--rendah);color:#3a2c00;}
-  .pill.sedang{background:var(--sedang);}
+  .pill.rendah{background:var(--rendah);color:#fff;}
+  .pill.sedang{background:var(--sedang);color:#3a2c00;}
   .pill.tinggi{background:var(--tinggi);}
 
   .kontrol-tabel{display:flex;gap:10px;margin-bottom:12px;flex-wrap:wrap;}
@@ -161,7 +159,6 @@
         <h2>Tren harian</h2>
         <p class="keterangan">Jumlah titik panas di Berau per hari sejak dashboard mulai mencatat.</p>
         <div class="chart-wrap"><canvas id="chart-tren"></canvas></div>
-        <div class="catatan-data" id="catatan-tren"></div>
       </div>
       <div>
         <h2>Per kecamatan</h2>
@@ -200,7 +197,7 @@
 </footer>
 
 <script>
-const WARNA_LEVEL = { "Rendah": "#FFC72C", "Sedang": "#FF8A1E", "Tinggi": "#E4402E" };
+const WARNA_LEVEL = { "Rendah": "#3CB043", "Sedang": "#F5C518", "Tinggi": "#E4402E" };
 
 function fmtWaktuWITA(iso){
   if(!iso) return "\u2014";
