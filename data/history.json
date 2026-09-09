@@ -105,5 +105,23 @@
       "Tinggi": 23,
       "Rendah": 48
     }
+  },
+  {
+    "date": "2026-09-09",
+    "total": 48,
+    "by_kecamatan": {
+      "SEGAH": 15,
+      "PULAU DERAWAN": 14,
+      "KELAY": 5,
+      "GUNUNG TABUR": 4,
+      "TALISAYAN": 4,
+      "BIATAN": 3,
+      "SAMBALIUNG": 2,
+      "BATU PUTIH": 1
+    },
+    "by_level": {
+      "Sedang": 44,
+      "Rendah": 4
+    }
   }
 ]
