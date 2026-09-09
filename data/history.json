@@ -108,19 +108,21 @@
   },
   {
     "date": "2026-09-09",
-    "total": 48,
+    "total": 50,
     "by_kecamatan": {
+      "PULAU DERAWAN": 15,
       "SEGAH": 15,
-      "PULAU DERAWAN": 14,
       "KELAY": 5,
       "GUNUNG TABUR": 4,
       "TALISAYAN": 4,
       "BIATAN": 3,
       "SAMBALIUNG": 2,
-      "BATU PUTIH": 1
+      "BATU PUTIH": 1,
+      "BIDUK-BIDUK": 1
     },
     "by_level": {
-      "Sedang": 44,
+      "Sedang": 45,
+      "Tinggi": 1,
       "Rendah": 4
     }
   }

@@ -48,6 +48,18 @@
     "waktu": "12:33"
   },
   {
+    "lat": 1.1782,
+    "lon": 118.736,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIDUK-BIDUK",
+    "tanggal": "2026-09-09",
+    "waktu": "19:17"
+  },
+  {
     "lat": 2.2859,
     "lon": 117.8271,
     "confidence": 8,
@@ -154,6 +166,18 @@
     "kecamatan": "KELAY",
     "tanggal": "2026-09-09",
     "waktu": "01:34"
+  },
+  {
+    "lat": 2.2508,
+    "lon": 117.9764,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-09",
+    "waktu": "15:24"
   },
   {
     "lat": 2.326,
