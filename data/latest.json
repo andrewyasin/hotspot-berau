@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T09:35:05.514Z",
-  "scrapedAt": "2026-09-11T17:53:22.994526+08:00",
+  "updatedAt": "2026-09-11T19:35:06.938Z",
+  "scrapedAt": "2026-09-12T03:54:32.301185+08:00",
   "sourceDate": "2026-09-11",
-  "totalKaltim": 508,
-  "totalBerau": 156,
+  "totalKaltim": 655,
+  "totalBerau": 170,
   "points": [
     {
       "lat": 1.4504,
@@ -484,6 +484,54 @@
       "kecamatan": "KELAY",
       "tanggal": "2026-09-11",
       "waktu": "00:56"
+    },
+    {
+      "lat": 2.231,
+      "lon": 117.9095,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.2291,
+      "lon": 117.8965,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.3109,
+      "lon": 117.9053,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.3234,
+      "lon": 117.9169,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
     },
     {
       "lat": 2.3396,
@@ -1098,6 +1146,30 @@
       "waktu": "11:57"
     },
     {
+      "lat": 2.0532,
+      "lon": 117.4684,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.0515,
+      "lon": 117.4562,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
       "lat": 1.9449,
       "lon": 117.2271,
       "confidence": 8,
@@ -1228,6 +1300,102 @@
       "kecamatan": "SEGAH",
       "tanggal": "2026-09-11",
       "waktu": "02:42"
+    },
+    {
+      "lat": 2.0343,
+      "lon": 117.194,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.0326,
+      "lon": 117.1824,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.0426,
+      "lon": 117.1809,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.2632,
+      "lon": 117.1481,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.2614,
+      "lon": 117.1365,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.2634,
+      "lon": 117.1412,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.2618,
+      "lon": 117.1297,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
+    },
+    {
+      "lat": 2.3299,
+      "lon": 117.108,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-11",
+      "waktu": "15:03"
     },
     {
       "lat": 2.3313,
