@@ -256,16 +256,8 @@
   },
   {
     "date": "2026-09-16",
-    "total": 17,
-    "by_kecamatan": {
-      "BIATAN": 6,
-      "BIDUK-BIDUK": 6,
-      "PULAU DERAWAN": 3,
-      "KELAY": 1,
-      "TABALAR": 1
-    },
-    "by_level": {
-      "Sedang": 17
-    }
+    "total": 0,
+    "by_kecamatan": {},
+    "by_level": {}
   }
 ]
