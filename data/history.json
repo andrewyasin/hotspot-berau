@@ -259,5 +259,17 @@
     "total": 0,
     "by_kecamatan": {},
     "by_level": {}
+  },
+  {
+    "date": "2026-09-17",
+    "total": 19,
+    "by_kecamatan": {
+      "Pulau Derawan": 17,
+      "Biduk-Biduk": 1,
+      "Gunung Tabur": 1
+    },
+    "by_level": {
+      "Sedang": 19
+    }
   }
 ]
