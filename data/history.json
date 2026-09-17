@@ -262,14 +262,20 @@
   },
   {
     "date": "2026-09-17",
-    "total": 19,
+    "total": 79,
     "by_kecamatan": {
-      "Pulau Derawan": 17,
+      "Pulau Derawan": 55,
+      "Talisayan": 13,
+      "Gunung Tabur": 3,
+      "Biatan": 3,
+      "Tabalar": 3,
       "Biduk-Biduk": 1,
-      "Gunung Tabur": 1
+      "Sambaliung": 1
     },
     "by_level": {
-      "Sedang": 19
+      "Rendah": 2,
+      "Sedang": 76,
+      "Tinggi": 1
     }
   }
 ]
