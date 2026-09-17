@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T10:05:04.477Z",
-  "scrapedAt": "2026-09-17T18:11:57.163300+08:00",
+  "updatedAt": "2026-09-17T20:05:04.189Z",
+  "scrapedAt": "2026-09-18T04:26:44.628877+08:00",
   "sourceDate": "2026-09-17",
-  "totalKaltim": 134,
-  "totalBerau": 79,
+  "totalKaltim": 111,
+  "totalBerau": 70,
   "points": [
     {
       "lat": 2.3198,
@@ -30,6 +30,30 @@
       "waktu": "13:27"
     },
     {
+      "lat": 2.33165,
+      "lon": 117.89861,
+      "confidence": 25,
+      "level": "rendah",
+      "levelName": "Rendah",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
+    },
+    {
+      "lat": 2.34237,
+      "lon": 117.97549,
+      "confidence": 32,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
+    },
+    {
       "lat": 1.52196,
       "lon": 118.07016,
       "confidence": 70,
@@ -40,234 +64,6 @@
       "kecamatan": "Talisayan",
       "tanggal": "2026-09-17",
       "waktu": "11:44"
-    },
-    {
-      "lat": 2.33188,
-      "lon": 117.91717,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.31363,
-      "lon": 117.90366,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.307,
-      "lon": 117.9026,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.32799,
-      "lon": 117.8988,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.31032,
-      "lon": 117.90314,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.3164,
-      "lon": 117.90765,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.31418,
-      "lon": 117.9002,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.32854,
-      "lon": 117.89535,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.31917,
-      "lon": 117.91162,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 1.09741,
-      "lon": 118.80758,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Biduk-Biduk",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.31585,
-      "lon": 117.9111,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.31972,
-      "lon": 117.90816,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.32802,
-      "lon": 117.92011,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.33298,
-      "lon": 117.91022,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.31087,
-      "lon": 117.89968,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.28208,
-      "lon": 117.82426,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Gunung Tabur",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.31862,
-      "lon": 117.91508,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.31807,
-      "lon": 117.91854,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
-    },
-    {
-      "lat": 2.32136,
-      "lon": 117.89777,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "00:43"
     },
     {
       "lat": 2.31746,
@@ -894,6 +690,18 @@
       "waktu": "13:27"
     },
     {
+      "lat": 2.31177,
+      "lon": 117.90128,
+      "confidence": 70,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NASA-NOAA20",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "13:27"
+    },
+    {
       "lat": 2.30495,
       "lon": 117.90582,
       "confidence": 70,
@@ -918,18 +726,6 @@
       "waktu": "13:27"
     },
     {
-      "lat": 2.31177,
-      "lon": 117.90128,
-      "confidence": 70,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NASA-NOAA20",
-      "kabupaten": "Berau",
-      "kecamatan": "Pulau Derawan",
-      "tanggal": "2026-09-17",
-      "waktu": "13:27"
-    },
-    {
       "lat": 2.3053,
       "lon": 117.90199,
       "confidence": 70,
@@ -942,6 +738,18 @@
       "waktu": "13:27"
     },
     {
+      "lat": 2.32801,
+      "lon": 117.94405,
+      "confidence": 82,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
+    },
+    {
       "lat": 2.31804,
       "lon": 117.90292,
       "confidence": 90,
@@ -952,6 +760,90 @@
       "kecamatan": "Pulau Derawan",
       "tanggal": "2026-09-17",
       "waktu": "13:05"
+    },
+    {
+      "lat": 2.32337,
+      "lon": 117.91097,
+      "confidence": 100,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
+    },
+    {
+      "lat": 2.31821,
+      "lon": 117.9454,
+      "confidence": 100,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
+    },
+    {
+      "lat": 2.32183,
+      "lon": 117.89996,
+      "confidence": 100,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
+    },
+    {
+      "lat": 2.31976,
+      "lon": 117.9564,
+      "confidence": 100,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
+    },
+    {
+      "lat": 2.32954,
+      "lon": 117.95502,
+      "confidence": 100,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
+    },
+    {
+      "lat": 2.31357,
+      "lon": 117.91239,
+      "confidence": 100,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
+    },
+    {
+      "lat": 2.312,
+      "lon": 117.90131,
+      "confidence": 100,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "NASA-MODIS",
+      "kabupaten": "Berau",
+      "kecamatan": "Pulau Derawan",
+      "tanggal": "2026-09-17",
+      "waktu": "19:34"
     }
   ]
 }
