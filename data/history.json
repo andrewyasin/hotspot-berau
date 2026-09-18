@@ -276,5 +276,22 @@
       "Sedang": 58,
       "Tinggi": 9
     }
+  },
+  {
+    "date": "2026-09-18",
+    "total": 70,
+    "by_kecamatan": {
+      "Pulau Derawan": 48,
+      "Talisayan": 13,
+      "Biatan": 3,
+      "Tabalar": 3,
+      "Gunung Tabur": 2,
+      "Sambaliung": 1
+    },
+    "by_level": {
+      "Rendah": 3,
+      "Sedang": 58,
+      "Tinggi": 9
+    }
   }
 ]
