@@ -564,6 +564,66 @@
     "waktu": "02:51"
   },
   {
+    "lat": 2.2683,
+    "lon": 117.9854,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-19",
+    "waktu": "15:11"
+  },
+  {
+    "lat": 2.3129,
+    "lon": 117.9407,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-19",
+    "waktu": "15:11"
+  },
+  {
+    "lat": 2.3199,
+    "lon": 117.9013,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-19",
+    "waktu": "15:11"
+  },
+  {
+    "lat": 2.3181,
+    "lon": 117.952,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-19",
+    "waktu": "15:11"
+  },
+  {
+    "lat": 2.3102,
+    "lon": 117.8955,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-19",
+    "waktu": "15:11"
+  },
+  {
     "lat": 2.0715,
     "lon": 117.7971,
     "confidence": 8,
@@ -1342,6 +1402,30 @@
     "kecamatan": "SAMBALIUNG",
     "tanggal": "2026-09-19",
     "waktu": "12:48"
+  },
+  {
+    "lat": 2.183,
+    "lon": 117.0582,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-09-19",
+    "waktu": "15:11"
+  },
+  {
+    "lat": 2.1064,
+    "lon": 117.2351,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-09-19",
+    "waktu": "19:14"
   },
   {
     "lat": 2.2563,
