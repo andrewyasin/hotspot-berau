@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-20T09:35:04.735Z",
-  "scrapedAt": "2026-09-20T17:54:36.663955+08:00",
+  "updatedAt": "2026-09-20T19:05:13.361Z",
+  "scrapedAt": "2026-09-21T03:35:09.168532+08:00",
   "sourceDate": "2026-09-20",
-  "totalKaltim": 467,
-  "totalBerau": 75,
+  "totalKaltim": 544,
+  "totalBerau": 78,
   "points": [
     {
       "lat": 1.5362,
@@ -304,6 +304,42 @@
       "kecamatan": "KELAY",
       "tanggal": "2026-09-20",
       "waktu": "12:10"
+    },
+    {
+      "lat": 2.2955,
+      "lon": 117.8826,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-20",
+      "waktu": "19:53"
+    },
+    {
+      "lat": 2.3164,
+      "lon": 117.8992,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-20",
+      "waktu": "19:53"
+    },
+    {
+      "lat": 2.3151,
+      "lon": 117.8896,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-20",
+      "waktu": "19:53"
     },
     {
       "lat": 2.3398,

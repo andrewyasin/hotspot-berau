@@ -300,6 +300,42 @@
     "waktu": "12:10"
   },
   {
+    "lat": 2.2955,
+    "lon": 117.8826,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-20",
+    "waktu": "19:53"
+  },
+  {
+    "lat": 2.3164,
+    "lon": 117.8992,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-20",
+    "waktu": "19:53"
+  },
+  {
+    "lat": 2.3151,
+    "lon": 117.8896,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-20",
+    "waktu": "19:53"
+  },
+  {
     "lat": 2.3398,
     "lon": 118.0272,
     "confidence": 8,
