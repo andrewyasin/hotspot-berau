@@ -852,6 +852,30 @@
     "waktu": "03:06"
   },
   {
+    "lat": 2.0824,
+    "lon": 117.4642,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-09-22",
+    "waktu": "19:34"
+  },
+  {
+    "lat": 2.0807,
+    "lon": 117.4519,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-09-22",
+    "waktu": "19:34"
+  },
+  {
     "lat": 2.0042,
     "lon": 117.5083,
     "confidence": 8,

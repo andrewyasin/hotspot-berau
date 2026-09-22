@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T10:05:06.632Z",
-  "scrapedAt": "2026-09-22T18:09:17.407327+08:00",
+  "updatedAt": "2026-09-22T20:05:18.642Z",
+  "scrapedAt": "2026-09-23T04:19:00.777295+08:00",
   "sourceDate": "2026-09-22",
-  "totalKaltim": 1545,
-  "totalBerau": 170,
+  "totalKaltim": 1596,
+  "totalBerau": 172,
   "points": [
     {
       "lat": 1.5608,
@@ -856,6 +856,30 @@
       "kecamatan": "SAMBALIUNG",
       "tanggal": "2026-09-22",
       "waktu": "03:06"
+    },
+    {
+      "lat": 2.0824,
+      "lon": 117.4642,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-09-22",
+      "waktu": "19:34"
+    },
+    {
+      "lat": 2.0807,
+      "lon": 117.4519,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-09-22",
+      "waktu": "19:34"
     },
     {
       "lat": 2.0042,
