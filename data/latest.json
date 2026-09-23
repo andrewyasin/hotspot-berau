@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-23T10:05:08.801Z",
-  "scrapedAt": "2026-09-23T18:11:01.668346+08:00",
+  "updatedAt": "2026-09-23T20:05:18.710Z",
+  "scrapedAt": "2026-09-24T04:34:33.893082+08:00",
   "sourceDate": "2026-09-23",
-  "totalKaltim": 1359,
-  "totalBerau": 79,
+  "totalKaltim": 1402,
+  "totalBerau": 81,
   "points": [
     {
       "lat": 1.3245,
@@ -196,6 +196,18 @@
       "kecamatan": "GUNUNG TABUR",
       "tanggal": "2026-09-23",
       "waktu": "00:30"
+    },
+    {
+      "lat": 1.4442,
+      "lon": 117.24,
+      "confidence": 7,
+      "level": "rendah",
+      "levelName": "Rendah",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "KELAY",
+      "tanggal": "2026-09-23",
+      "waktu": "20:12"
     },
     {
       "lat": 1.3839,
@@ -892,6 +904,18 @@
       "kecamatan": "TALISAYAN",
       "tanggal": "2026-09-23",
       "waktu": "12:53"
+    },
+    {
+      "lat": 1.5149,
+      "lon": 118.1454,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "TALISAYAN",
+      "tanggal": "2026-09-23",
+      "waktu": "23:52"
     },
     {
       "lat": 1.5701,
