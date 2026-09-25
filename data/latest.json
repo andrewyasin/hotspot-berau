@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T10:05:04.034Z",
-  "scrapedAt": "2026-09-25T18:20:56.473547+08:00",
+  "updatedAt": "2026-09-25T20:35:14.505Z",
+  "scrapedAt": "2026-09-26T04:36:31.132695+08:00",
   "sourceDate": "2026-09-25",
-  "totalKaltim": 680,
-  "totalBerau": 126,
+  "totalKaltim": 779,
+  "totalBerau": 131,
   "points": [
     {
       "lat": 1.3361,
@@ -28,6 +28,18 @@
       "kecamatan": "BATU PUTIH",
       "tanggal": "2026-09-25",
       "waktu": "12:33"
+    },
+    {
+      "lat": 1.6168,
+      "lon": 117.9614,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-09-25",
+      "waktu": "19:51"
     },
     {
       "lat": 1.6147,
@@ -136,6 +148,18 @@
       "kecamatan": "GUNUNG TABUR",
       "tanggal": "2026-09-25",
       "waktu": "01:13"
+    },
+    {
+      "lat": 1.4647,
+      "lon": 117.2534,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "KELAY",
+      "tanggal": "2026-09-25",
+      "waktu": "19:51"
     },
     {
       "lat": 1.7461,
@@ -304,6 +328,18 @@
       "kecamatan": "PULAU DERAWAN",
       "tanggal": "2026-09-25",
       "waktu": "12:33"
+    },
+    {
+      "lat": 1.9071,
+      "lon": 117.7931,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-09-25",
+      "waktu": "19:51"
     },
     {
       "lat": 1.9958,
@@ -808,6 +844,30 @@
       "kecamatan": "TABALAR",
       "tanggal": "2026-09-25",
       "waktu": "12:33"
+    },
+    {
+      "lat": 1.5128,
+      "lon": 118.1442,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "TALISAYAN",
+      "tanggal": "2026-09-25",
+      "waktu": "19:51"
+    },
+    {
+      "lat": 1.5907,
+      "lon": 118.108,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "TALISAYAN",
+      "tanggal": "2026-09-25",
+      "waktu": "19:51"
     },
     {
       "lat": 1.5853,
