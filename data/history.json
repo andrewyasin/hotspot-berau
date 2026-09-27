@@ -463,22 +463,22 @@
   },
   {
     "date": "2026-09-27",
-    "total": 146,
+    "total": 154,
     "by_kecamatan": {
+      "TALISAYAN": 26,
+      "PULAU DERAWAN": 25,
       "SAMBALIUNG": 25,
-      "TALISAYAN": 25,
-      "PULAU DERAWAN": 24,
-      "TABALAR": 24,
-      "GUNUNG TABUR": 18,
+      "TABALAR": 25,
+      "GUNUNG TABUR": 20,
+      "KELAY": 12,
       "BIATAN": 11,
-      "KELAY": 11,
-      "TELUK BAYUR": 4,
+      "TELUK BAYUR": 5,
       "BIDUK-BIDUK": 3,
-      "BATU PUTIH": 1
+      "BATU PUTIH": 2
     },
     "by_level": {
-      "Sedang": 136,
-      "Tinggi": 10
+      "Sedang": 142,
+      "Tinggi": 12
     }
   }
 ]

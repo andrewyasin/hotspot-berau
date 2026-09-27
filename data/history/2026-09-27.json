@@ -1,5 +1,17 @@
 [
   {
+    "lat": 1.3277,
+    "lon": 118.5085,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "BATU PUTIH",
+    "tanggal": "2026-09-27",
+    "waktu": "19:32"
+  },
+  {
     "lat": 1.1806,
     "lon": 118.177,
     "confidence": 8,
@@ -178,6 +190,30 @@
     "kecamatan": "BIDUK-BIDUK",
     "tanggal": "2026-09-27",
     "waktu": "11:57"
+  },
+  {
+    "lat": 2.2441,
+    "lon": 117.611,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-09-27",
+    "waktu": "19:32"
+  },
+  {
+    "lat": 2.2789,
+    "lon": 117.7066,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-09-27",
+    "waktu": "19:32"
   },
   {
     "lat": 2.4648,
@@ -396,6 +432,18 @@
     "waktu": "11:57"
   },
   {
+    "lat": 1.8514,
+    "lon": 117.2173,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "KELAY",
+    "tanggal": "2026-09-27",
+    "waktu": "19:32"
+  },
+  {
     "lat": 1.4965,
     "lon": 117.2447,
     "confidence": 8,
@@ -526,6 +574,18 @@
     "kecamatan": "KELAY",
     "tanggal": "2026-09-27",
     "waktu": "11:57"
+  },
+  {
+    "lat": 2.3098,
+    "lon": 117.9946,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-27",
+    "waktu": "19:32"
   },
   {
     "lat": 2.3241,
@@ -1116,6 +1176,18 @@
     "waktu": "11:57"
   },
   {
+    "lat": 1.8042,
+    "lon": 117.811,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-09-27",
+    "waktu": "19:32"
+  },
+  {
     "lat": 1.8069,
     "lon": 117.8118,
     "confidence": 8,
@@ -1402,6 +1474,18 @@
     "kecamatan": "TABALAR",
     "tanggal": "2026-09-27",
     "waktu": "11:57"
+  },
+  {
+    "lat": 1.5213,
+    "lon": 118.2084,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-09-27",
+    "waktu": "19:32"
   },
   {
     "lat": 1.5941,
@@ -1702,6 +1786,18 @@
     "kecamatan": "TALISAYAN",
     "tanggal": "2026-09-27",
     "waktu": "11:57"
+  },
+  {
+    "lat": 2.0528,
+    "lon": 117.3387,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TELUK BAYUR",
+    "tanggal": "2026-09-27",
+    "waktu": "19:32"
   },
   {
     "lat": 2.0095,
