@@ -660,6 +660,30 @@
     "waktu": "00:17"
   },
   {
+    "lat": 1.9075,
+    "lon": 117.8005,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-09-28",
+    "waktu": "23:58"
+  },
+  {
+    "lat": 1.9099,
+    "lon": 117.8008,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-09-28",
+    "waktu": "23:58"
+  },
+  {
     "lat": 2.1018,
     "lon": 117.5659,
     "confidence": 8,
