@@ -1,0 +1,98 @@
+[
+  {
+    "lat": 1.3219,
+    "lon": 118.5884,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIDUK-BIDUK",
+    "tanggal": "2026-09-29",
+    "waktu": "00:17"
+  },
+  {
+    "lat": 1.3239,
+    "lon": 118.5869,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIDUK-BIDUK",
+    "tanggal": "2026-09-29",
+    "waktu": "00:17"
+  },
+  {
+    "lat": 2.3152,
+    "lon": 117.9965,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-29",
+    "waktu": "00:17"
+  },
+  {
+    "lat": 2.2765,
+    "lon": 117.9924,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-09-29",
+    "waktu": "00:17"
+  },
+  {
+    "lat": 1.9582,
+    "lon": 117.6163,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-09-29",
+    "waktu": "02:38"
+  },
+  {
+    "lat": 1.959,
+    "lon": 117.6127,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-09-29",
+    "waktu": "00:17"
+  },
+  {
+    "lat": 1.9082,
+    "lon": 117.8017,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-09-29",
+    "waktu": "00:17"
+  },
+  {
+    "lat": 2.248,
+    "lon": 117.2269,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-09-29",
+    "waktu": "00:17"
+  }
+]

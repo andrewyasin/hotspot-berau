@@ -499,5 +499,18 @@
     "by_level": {
       "Sedang": 99
     }
+  },
+  {
+    "date": "2026-09-29",
+    "total": 8,
+    "by_kecamatan": {
+      "SAMBALIUNG": 3,
+      "BIDUK-BIDUK": 2,
+      "PULAU DERAWAN": 2,
+      "SEGAH": 1
+    },
+    "by_level": {
+      "Sedang": 8
+    }
   }
 ]
