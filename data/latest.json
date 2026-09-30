@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T11:05:03.590Z",
-  "scrapedAt": "2026-09-30T19:15:42.915671+08:00",
+  "updatedAt": "2026-09-30T21:05:12.877Z",
+  "scrapedAt": "2026-10-01T05:29:00.665444+08:00",
   "sourceDate": "2026-09-30",
-  "totalKaltim": 913,
-  "totalBerau": 173,
+  "totalKaltim": 1001,
+  "totalBerau": 187,
   "points": [
     {
       "lat": 1.328,
@@ -112,6 +112,18 @@
       "kecamatan": "BATU PUTIH",
       "tanggal": "2026-09-30",
       "waktu": "12:42"
+    },
+    {
+      "lat": 1.6034,
+      "lon": 118.0878,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
     },
     {
       "lat": 1.6045,
@@ -738,6 +750,18 @@
       "waktu": "12:42"
     },
     {
+      "lat": 1.5333,
+      "lon": 117.0433,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "KELAY",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
       "lat": 1.7195,
       "lon": 117.074,
       "confidence": 8,
@@ -808,6 +832,54 @@
       "kecamatan": "KELAY",
       "tanggal": "2026-09-30",
       "waktu": "12:42"
+    },
+    {
+      "lat": 2.2634,
+      "lon": 117.9945,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
+      "lat": 2.2724,
+      "lon": 117.9932,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
+      "lat": 2.3098,
+      "lon": 117.9975,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
+      "lat": 2.3189,
+      "lon": 117.9962,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
     },
     {
       "lat": 2.2757,
@@ -1110,6 +1182,18 @@
       "waktu": "12:42"
     },
     {
+      "lat": 1.9617,
+      "lon": 117.609,
+      "confidence": 7,
+      "level": "rendah",
+      "levelName": "Rendah",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
       "lat": 2.1187,
       "lon": 117.5877,
       "confidence": 8,
@@ -1348,6 +1432,90 @@
       "kecamatan": "SAMBALIUNG",
       "tanggal": "2026-09-30",
       "waktu": "12:42"
+    },
+    {
+      "lat": 2.1633,
+      "lon": 117.1279,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
+      "lat": 2.1621,
+      "lon": 117.1191,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
+      "lat": 2.1792,
+      "lon": 116.9822,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
+      "lat": 2.178,
+      "lon": 116.9734,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
+      "lat": 2.188,
+      "lon": 116.9809,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
+      "lat": 2.1868,
+      "lon": 116.9721,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
+    },
+    {
+      "lat": 2.2814,
+      "lon": 117.1865,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-09-30",
+      "waktu": "19:49"
     },
     {
       "lat": 2.0633,
