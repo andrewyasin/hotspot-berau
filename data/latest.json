@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-10-02T11:05:05.252Z",
-  "scrapedAt": "2026-10-02T19:12:53.921344+08:00",
+  "updatedAt": "2026-10-02T21:05:13.257Z",
+  "scrapedAt": "2026-10-03T05:23:22.117754+08:00",
   "sourceDate": "2026-10-02",
-  "totalKaltim": 1198,
-  "totalBerau": 65,
+  "totalKaltim": 1258,
+  "totalBerau": 71,
   "points": [
+    {
+      "lat": 1.5996,
+      "lon": 118.0882,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-10-02",
+      "waktu": "19:29"
+    },
     {
       "lat": 1.5998,
       "lon": 118.0908,
@@ -174,6 +186,18 @@
       "waktu": "13:22"
     },
     {
+      "lat": 1.4835,
+      "lon": 117.2656,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "KELAY",
+      "tanggal": "2026-10-02",
+      "waktu": "19:29"
+    },
+    {
       "lat": 1.4915,
       "lon": 117.215,
       "confidence": 8,
@@ -220,6 +244,42 @@
       "kecamatan": "PULAU DERAWAN",
       "tanggal": "2026-10-02",
       "waktu": "02:53"
+    },
+    {
+      "lat": 2.3219,
+      "lon": 117.9868,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-10-02",
+      "waktu": "19:29"
+    },
+    {
+      "lat": 2.3202,
+      "lon": 117.9747,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-10-02",
+      "waktu": "19:29"
+    },
+    {
+      "lat": 2.3321,
+      "lon": 117.9853,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-10-02",
+      "waktu": "19:29"
     },
     {
       "lat": 2.3183,
@@ -520,6 +580,18 @@
       "kecamatan": "SAMBALIUNG",
       "tanggal": "2026-10-02",
       "waktu": "12:04"
+    },
+    {
+      "lat": 2.2864,
+      "lon": 117.1678,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-10-02",
+      "waktu": "19:29"
     },
     {
       "lat": 2.2164,
