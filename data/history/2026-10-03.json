@@ -84,6 +84,18 @@
     "waktu": "00:24"
   },
   {
+    "lat": 1.3351,
+    "lon": 117.972,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIATAN",
+    "tanggal": "2026-10-03",
+    "waktu": "13:05"
+  },
+  {
     "lat": 1.6002,
     "lon": 118.0888,
     "confidence": 8,

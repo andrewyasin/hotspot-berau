@@ -589,9 +589,9 @@
   },
   {
     "date": "2026-10-03",
-    "total": 47,
+    "total": 48,
     "by_kecamatan": {
-      "BIATAN": 10,
+      "BIATAN": 11,
       "PULAU DERAWAN": 10,
       "KELAY": 8,
       "SEGAH": 8,
@@ -602,7 +602,7 @@
       "TELUK BAYUR": 1
     },
     "by_level": {
-      "Sedang": 47
+      "Sedang": 48
     }
   }
 ]
