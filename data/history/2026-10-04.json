@@ -1,0 +1,38 @@
+[
+  {
+    "lat": 1.6004,
+    "lon": 118.0848,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIATAN",
+    "tanggal": "2026-10-04",
+    "waktu": "00:24"
+  },
+  {
+    "lat": 1.5989,
+    "lon": 118.0867,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIATAN",
+    "tanggal": "2026-10-04",
+    "waktu": "00:24"
+  },
+  {
+    "lat": 1.4819,
+    "lon": 117.2092,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "KELAY",
+    "tanggal": "2026-10-04",
+    "waktu": "00:24"
+  }
+]
