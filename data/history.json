@@ -607,13 +607,17 @@
   },
   {
     "date": "2026-10-04",
-    "total": 3,
+    "total": 32,
     "by_kecamatan": {
-      "BIATAN": 2,
+      "TALISAYAN": 17,
+      "BIATAN": 8,
+      "TABALAR": 5,
+      "BATU PUTIH": 1,
       "KELAY": 1
     },
     "by_level": {
-      "Sedang": 3
+      "Sedang": 27,
+      "Tinggi": 5
     }
   }
 ]
