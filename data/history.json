@@ -622,8 +622,16 @@
   },
   {
     "date": "2026-10-05",
-    "total": 0,
-    "by_kecamatan": {},
-    "by_level": {}
+    "total": 15,
+    "by_kecamatan": {
+      "TABALAR": 6,
+      "BIATAN": 3,
+      "KELAY": 3,
+      "BIDUK-BIDUK": 2,
+      "TALISAYAN": 1
+    },
+    "by_level": {
+      "Sedang": 15
+    }
   }
 ]
