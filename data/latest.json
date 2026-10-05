@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-10-05T12:05:04.520Z",
-  "scrapedAt": "2026-10-05T20:27:05.655345+08:00",
+  "updatedAt": "2026-10-05T23:05:13.425Z",
+  "scrapedAt": "2026-10-06T07:14:44.050852+08:00",
   "sourceDate": "2026-10-05",
-  "totalKaltim": 910,
-  "totalBerau": 15,
+  "totalKaltim": 973,
+  "totalBerau": 19,
   "points": [
+    {
+      "lat": 1.6218,
+      "lon": 117.9996,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-10-05",
+      "waktu": "19:49"
+    },
     {
       "lat": 1.6715,
       "lon": 118.0458,
@@ -174,6 +186,18 @@
       "waktu": "12:48"
     },
     {
+      "lat": 1.52,
+      "lon": 118.2018,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "TALISAYAN",
+      "tanggal": "2026-10-05",
+      "waktu": "19:49"
+    },
+    {
       "lat": 1.4531,
       "lon": 118.2973,
       "confidence": 8,
@@ -184,6 +208,30 @@
       "kecamatan": "TALISAYAN",
       "tanggal": "2026-10-05",
       "waktu": "12:48"
+    },
+    {
+      "lat": 1.5271,
+      "lon": 118.1973,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "TALISAYAN",
+      "tanggal": "2026-10-05",
+      "waktu": "23:45"
+    },
+    {
+      "lat": 1.5273,
+      "lon": 118.1973,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "TALISAYAN",
+      "tanggal": "2026-10-05",
+      "waktu": "23:48"
     }
   ]
 }
