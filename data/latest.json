@@ -1,8 +1,57 @@
 {
-  "updatedAt": "2026-10-06T12:05:04.298Z",
-  "scrapedAt": "2026-10-06T20:08:12.904095+08:00",
+  "updatedAt": "2026-10-06T21:35:15.726Z",
+  "scrapedAt": "2026-10-07T05:46:30.291389+08:00",
   "sourceDate": "2026-10-06",
-  "totalKaltim": 410,
-  "totalBerau": 0,
-  "points": []
+  "totalKaltim": 596,
+  "totalBerau": 4,
+  "points": [
+    {
+      "lat": 1.7636,
+      "lon": 117.9749,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-10-06",
+      "waktu": "12:10"
+    },
+    {
+      "lat": 1.7542,
+      "lon": 117.9167,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-10-06",
+      "waktu": "12:10"
+    },
+    {
+      "lat": 1.7774,
+      "lon": 117.9596,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-10-06",
+      "waktu": "12:10"
+    },
+    {
+      "lat": 1.7769,
+      "lon": 117.9564,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-10-06",
+      "waktu": "12:10"
+    }
+  ]
 }
