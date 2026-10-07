@@ -264,6 +264,18 @@
     "waktu": "12:10"
   },
   {
+    "lat": 1.773,
+    "lon": 117.9567,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-07",
+    "waktu": "19:29"
+  },
+  {
     "lat": 1.782,
     "lon": 117.9568,
     "confidence": 8,
@@ -382,6 +394,42 @@
     "kecamatan": "TABALAR",
     "tanggal": "2026-10-07",
     "waktu": "12:10"
+  },
+  {
+    "lat": 1.5855,
+    "lon": 118.1316,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-07",
+    "waktu": "19:29"
+  },
+  {
+    "lat": 1.5837,
+    "lon": 118.119,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-07",
+    "waktu": "19:29"
+  },
+  {
+    "lat": 1.581,
+    "lon": 118.1261,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-07",
+    "waktu": "19:29"
   },
   {
     "lat": 1.5951,

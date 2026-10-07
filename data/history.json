@@ -648,16 +648,16 @@
   },
   {
     "date": "2026-10-07",
-    "total": 40,
+    "total": 44,
     "by_kecamatan": {
       "KELAY": 19,
-      "TABALAR": 10,
-      "TALISAYAN": 8,
+      "TABALAR": 11,
+      "TALISAYAN": 11,
       "BIATAN": 3
     },
     "by_level": {
-      "Sedang": 38,
-      "Tinggi": 2
+      "Sedang": 39,
+      "Tinggi": 5
     }
   }
 ]
