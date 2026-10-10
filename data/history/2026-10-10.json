@@ -1,0 +1,26 @@
+[
+  {
+    "lat": 1.5125,
+    "lon": 118.1232,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-10",
+    "waktu": "00:11"
+  },
+  {
+    "lat": 1.4315,
+    "lon": 118.2232,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-10",
+    "waktu": "00:11"
+  }
+]

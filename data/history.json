@@ -685,5 +685,15 @@
     "by_level": {
       "Sedang": 23
     }
+  },
+  {
+    "date": "2026-10-10",
+    "total": 2,
+    "by_kecamatan": {
+      "TALISAYAN": 2
+    },
+    "by_level": {
+      "Sedang": 2
+    }
   }
 ]
