@@ -1,5 +1,17 @@
 [
   {
+    "lat": 1.9144,
+    "lon": 117.7957,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-10",
+    "waktu": "23:54"
+  },
+  {
     "lat": 1.5125,
     "lon": 118.1232,
     "confidence": 8,

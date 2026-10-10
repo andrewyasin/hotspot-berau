@@ -688,12 +688,13 @@
   },
   {
     "date": "2026-10-10",
-    "total": 2,
+    "total": 3,
     "by_kecamatan": {
-      "TALISAYAN": 2
+      "TALISAYAN": 2,
+      "SAMBALIUNG": 1
     },
     "by_level": {
-      "Sedang": 2
+      "Sedang": 3
     }
   }
 ]

@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-10-10T11:05:03.954Z",
-  "scrapedAt": "2026-10-10T19:16:51.563931+08:00",
+  "updatedAt": "2026-10-10T20:35:14.281Z",
+  "scrapedAt": "2026-10-11T04:37:17.543905+08:00",
   "sourceDate": "2026-10-10",
-  "totalKaltim": 110,
-  "totalBerau": 2,
+  "totalKaltim": 141,
+  "totalBerau": 3,
   "points": [
+    {
+      "lat": 1.9144,
+      "lon": 117.7957,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-10-10",
+      "waktu": "23:54"
+    },
     {
       "lat": 1.5125,
       "lon": 118.1232,
