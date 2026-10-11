@@ -1,0 +1,98 @@
+[
+  {
+    "lat": 1.251,
+    "lon": 118.0238,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "BATU PUTIH",
+    "tanggal": "2026-10-11",
+    "waktu": "12:16"
+  },
+  {
+    "lat": 1.2558,
+    "lon": 118.023,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "BATU PUTIH",
+    "tanggal": "2026-10-11",
+    "waktu": "12:16"
+  },
+  {
+    "lat": 1.2557,
+    "lon": 118.0254,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "BATU PUTIH",
+    "tanggal": "2026-10-11",
+    "waktu": "12:16"
+  },
+  {
+    "lat": 1.2529,
+    "lon": 118.0228,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BATU PUTIH",
+    "tanggal": "2026-10-11",
+    "waktu": "12:36"
+  },
+  {
+    "lat": 1.1959,
+    "lon": 118.7378,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIDUK-BIDUK",
+    "tanggal": "2026-10-11",
+    "waktu": "12:33"
+  },
+  {
+    "lat": 1.1954,
+    "lon": 118.7344,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIDUK-BIDUK",
+    "tanggal": "2026-10-11",
+    "waktu": "12:33"
+  },
+  {
+    "lat": 1.223,
+    "lon": 118.7162,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIDUK-BIDUK",
+    "tanggal": "2026-10-11",
+    "waktu": "12:33"
+  },
+  {
+    "lat": 1.5204,
+    "lon": 118.2103,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-11",
+    "waktu": "12:16"
+  }
+]
