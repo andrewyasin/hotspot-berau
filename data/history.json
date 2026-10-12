@@ -709,5 +709,20 @@
       "Sedang": 7,
       "Tinggi": 1
     }
+  },
+  {
+    "date": "2026-10-12",
+    "total": 17,
+    "by_kecamatan": {
+      "TALISAYAN": 6,
+      "SAMBALIUNG": 5,
+      "KELAY": 3,
+      "BATU PUTIH": 1,
+      "BIATAN": 1,
+      "SEGAH": 1
+    },
+    "by_level": {
+      "Sedang": 17
+    }
   }
 ]
