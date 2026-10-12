@@ -712,17 +712,22 @@
   },
   {
     "date": "2026-10-12",
-    "total": 17,
+    "total": 52,
     "by_kecamatan": {
-      "TALISAYAN": 6,
-      "SAMBALIUNG": 5,
-      "KELAY": 3,
-      "BATU PUTIH": 1,
+      "TALISAYAN": 15,
+      "KELAY": 10,
+      "SAMBALIUNG": 10,
+      "TABALAR": 5,
+      "BATU PUTIH": 4,
+      "BIDUK-BIDUK": 4,
+      "SEGAH": 2,
       "BIATAN": 1,
-      "SEGAH": 1
+      "TELUK BAYUR": 1
     },
     "by_level": {
-      "Sedang": 17
+      "Sedang": 48,
+      "Tinggi": 3,
+      "Rendah": 1
     }
   }
 ]
