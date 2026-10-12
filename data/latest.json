@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-12T13:05:06.612Z",
-  "scrapedAt": "2026-10-12T21:21:50.560237+08:00",
+  "updatedAt": "2026-10-12T23:35:16.849Z",
+  "scrapedAt": "2026-10-13T07:41:55.275738+08:00",
   "sourceDate": "2026-10-12",
-  "totalKaltim": 1227,
-  "totalBerau": 52,
+  "totalKaltim": 1278,
+  "totalBerau": 53,
   "points": [
     {
       "lat": 1.453,
@@ -460,6 +460,18 @@
       "kecamatan": "TALISAYAN",
       "tanggal": "2026-10-12",
       "waktu": "15:03"
+    },
+    {
+      "lat": 1.5346,
+      "lon": 118.1871,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "TALISAYAN",
+      "tanggal": "2026-10-12",
+      "waktu": "19:27"
     },
     {
       "lat": 1.5172,

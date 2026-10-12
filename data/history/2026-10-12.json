@@ -456,6 +456,18 @@
     "waktu": "15:03"
   },
   {
+    "lat": 1.5346,
+    "lon": 118.1871,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-12",
+    "waktu": "19:27"
+  },
+  {
     "lat": 1.5172,
     "lon": 118.2116,
     "confidence": 8,

@@ -712,9 +712,9 @@
   },
   {
     "date": "2026-10-12",
-    "total": 52,
+    "total": 53,
     "by_kecamatan": {
-      "TALISAYAN": 15,
+      "TALISAYAN": 16,
       "KELAY": 10,
       "SAMBALIUNG": 10,
       "TABALAR": 5,
@@ -725,7 +725,7 @@
       "TELUK BAYUR": 1
     },
     "by_level": {
-      "Sedang": 48,
+      "Sedang": 49,
       "Tinggi": 3,
       "Rendah": 1
     }
