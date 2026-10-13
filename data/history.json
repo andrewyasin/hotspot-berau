@@ -732,8 +732,15 @@
   },
   {
     "date": "2026-10-13",
-    "total": 0,
-    "by_kecamatan": {},
-    "by_level": {}
+    "total": 12,
+    "by_kecamatan": {
+      "TALISAYAN": 5,
+      "TABALAR": 4,
+      "BATU PUTIH": 2,
+      "BIDUK-BIDUK": 1
+    },
+    "by_level": {
+      "Sedang": 12
+    }
   }
 ]
