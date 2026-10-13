@@ -729,5 +729,11 @@
       "Tinggi": 3,
       "Rendah": 1
     }
+  },
+  {
+    "date": "2026-10-13",
+    "total": 0,
+    "by_kecamatan": {},
+    "by_level": {}
   }
 ]
