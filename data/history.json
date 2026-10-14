@@ -742,5 +742,21 @@
     "by_level": {
       "Sedang": 12
     }
+  },
+  {
+    "date": "2026-10-14",
+    "total": 24,
+    "by_kecamatan": {
+      "SEGAH": 9,
+      "TALISAYAN": 8,
+      "BIATAN": 3,
+      "TABALAR": 2,
+      "BIDUK-BIDUK": 1,
+      "SAMBALIUNG": 1
+    },
+    "by_level": {
+      "Tinggi": 5,
+      "Sedang": 19
+    }
   }
 ]
