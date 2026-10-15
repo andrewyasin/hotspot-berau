@@ -48,6 +48,18 @@
     "waktu": "12:40"
   },
   {
+    "lat": 1.4414,
+    "lon": 117.9877,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIATAN",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
     "lat": 1.1623,
     "lon": 118.7539,
     "confidence": 8,
@@ -192,6 +204,90 @@
     "waktu": "00:17"
   },
   {
+    "lat": 2.2107,
+    "lon": 117.7195,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.1846,
+    "lon": 117.5424,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.1829,
+    "lon": 117.3629,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.2415,
+    "lon": 117.504,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.2634,
+    "lon": 117.538,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.3325,
+    "lon": 117.5013,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.3753,
+    "lon": 117.4802,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
     "lat": 2.2209,
     "lon": 117.8918,
     "confidence": 8,
@@ -250,6 +346,30 @@
     "kecamatan": "PULAU DERAWAN",
     "tanggal": "2026-10-15",
     "waktu": "00:17"
+  },
+  {
+    "lat": 2.2993,
+    "lon": 117.9989,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.3422,
+    "lon": 117.9968,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "PULAU DERAWAN",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
   },
   {
     "lat": 2.0746,
@@ -336,6 +456,78 @@
     "waktu": "00:17"
   },
   {
+    "lat": 1.9473,
+    "lon": 117.3992,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 1.9986,
+    "lon": 117.6609,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.0335,
+    "lon": 117.6975,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.0232,
+    "lon": 117.6013,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.0611,
+    "lon": 117.6295,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.3037,
+    "lon": 117.1346,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-10-15",
+    "waktu": "19:46"
+  },
+  {
     "lat": 2.2567,
     "lon": 117.0346,
     "confidence": 7,
@@ -358,6 +550,54 @@
     "kecamatan": "SEGAH",
     "tanggal": "2026-10-15",
     "waktu": "00:17"
+  },
+  {
+    "lat": 2.2544,
+    "lon": 117.0356,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.2906,
+    "lon": 117.1957,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.2988,
+    "lon": 117.1413,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 2.3111,
+    "lon": 116.9884,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
   },
   {
     "lat": 1.7316,
@@ -480,6 +720,42 @@
     "waktu": "00:17"
   },
   {
+    "lat": 1.7365,
+    "lon": 117.8516,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 1.7709,
+    "lon": 117.994,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 1.7751,
+    "lon": 117.9934,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
     "lat": 1.4635,
     "lon": 118.2728,
     "confidence": 8,
@@ -588,6 +864,30 @@
     "waktu": "00:17"
   },
   {
+    "lat": 1.5118,
+    "lon": 118.1111,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
+    "lat": 1.5838,
+    "lon": 118.1284,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
+  },
+  {
     "lat": 2.0425,
     "lon": 117.2293,
     "confidence": 8,
@@ -598,5 +898,17 @@
     "kecamatan": "TELUK BAYUR",
     "tanggal": "2026-10-15",
     "waktu": "12:40"
+  },
+  {
+    "lat": 2.0422,
+    "lon": 117.2275,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TELUK BAYUR",
+    "tanggal": "2026-10-15",
+    "waktu": "12:59"
   }
 ]
