@@ -800,5 +800,17 @@
     "by_level": {
       "Sedang": 15
     }
+  },
+  {
+    "date": "2026-10-17",
+    "total": 4,
+    "by_kecamatan": {
+      "TALISAYAN": 2,
+      "PULAU DERAWAN": 1,
+      "TABALAR": 1
+    },
+    "by_level": {
+      "Sedang": 4
+    }
   }
 ]
