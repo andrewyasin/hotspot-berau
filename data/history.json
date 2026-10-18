@@ -815,17 +815,20 @@
   },
   {
     "date": "2026-10-18",
-    "total": 16,
+    "total": 38,
     "by_kecamatan": {
-      "TALISAYAN": 7,
-      "TABALAR": 4,
+      "TALISAYAN": 11,
+      "SEGAH": 10,
+      "TABALAR": 8,
+      "SAMBALIUNG": 3,
       "BIATAN": 2,
-      "SEGAH": 2,
-      "TELUK BAYUR": 1
+      "TELUK BAYUR": 2,
+      "BATU PUTIH": 1,
+      "GUNUNG TABUR": 1
     },
     "by_level": {
-      "Sedang": 14,
-      "Tinggi": 2
+      "Sedang": 32,
+      "Tinggi": 6
     }
   }
 ]
