@@ -36,6 +36,18 @@
     "waktu": "15:09"
   },
   {
+    "lat": 2.2575,
+    "lon": 117.6136,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-20",
+    "waktu": "19:44"
+  },
+  {
     "lat": 2.2139,
     "lon": 117.6635,
     "confidence": 8,
@@ -274,6 +286,30 @@
     "kecamatan": "SEGAH",
     "tanggal": "2026-10-20",
     "waktu": "15:09"
+  },
+  {
+    "lat": 2.3205,
+    "lon": 116.9931,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-10-20",
+    "waktu": "19:44"
+  },
+  {
+    "lat": 2.3294,
+    "lon": 116.9919,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-10-20",
+    "waktu": "19:44"
   },
   {
     "lat": 2.0788,

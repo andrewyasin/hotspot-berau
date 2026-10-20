@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T10:05:04.537Z",
-  "scrapedAt": "2026-10-20T18:14:43.545250+08:00",
+  "updatedAt": "2026-10-20T20:35:12.681Z",
+  "scrapedAt": "2026-10-21T04:45:58.822726+08:00",
   "sourceDate": "2026-10-20",
-  "totalKaltim": 679,
-  "totalBerau": 37,
+  "totalKaltim": 753,
+  "totalBerau": 40,
   "points": [
     {
       "lat": 1.4524,
@@ -40,6 +40,18 @@
       "kecamatan": "GUNUNG TABUR",
       "tanggal": "2026-10-20",
       "waktu": "15:09"
+    },
+    {
+      "lat": 2.2575,
+      "lon": 117.6136,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "GUNUNG TABUR",
+      "tanggal": "2026-10-20",
+      "waktu": "19:44"
     },
     {
       "lat": 2.2139,
@@ -280,6 +292,30 @@
       "kecamatan": "SEGAH",
       "tanggal": "2026-10-20",
       "waktu": "15:09"
+    },
+    {
+      "lat": 2.3205,
+      "lon": 116.9931,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-10-20",
+      "waktu": "19:44"
+    },
+    {
+      "lat": 2.3294,
+      "lon": 116.9919,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-10-20",
+      "waktu": "19:44"
     },
     {
       "lat": 2.0788,
