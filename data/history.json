@@ -889,5 +889,22 @@
       "Sedang": 69,
       "Rendah": 7
     }
+  },
+  {
+    "date": "2026-10-22",
+    "total": 28,
+    "by_kecamatan": {
+      "GUNUNG TABUR": 14,
+      "SAMBALIUNG": 6,
+      "TALISAYAN": 5,
+      "BATU PUTIH": 1,
+      "BIATAN": 1,
+      "TELUK BAYUR": 1
+    },
+    "by_level": {
+      "Sedang": 24,
+      "Tinggi": 2,
+      "Rendah": 2
+    }
   }
 ]
