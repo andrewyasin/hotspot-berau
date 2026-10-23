@@ -906,5 +906,21 @@
       "Tinggi": 2,
       "Rendah": 2
     }
+  },
+  {
+    "date": "2026-10-23",
+    "total": 20,
+    "by_kecamatan": {
+      "TALISAYAN": 7,
+      "KELAY": 4,
+      "BATU PUTIH": 3,
+      "SAMBALIUNG": 2,
+      "TABALAR": 2,
+      "GUNUNG TABUR": 1,
+      "SEGAH": 1
+    },
+    "by_level": {
+      "Sedang": 20
+    }
   }
 ]
