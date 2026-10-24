@@ -1,0 +1,98 @@
+[
+  {
+    "lat": 1.9409,
+    "lon": 117.2403,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-24",
+    "waktu": "00:49"
+  },
+  {
+    "lat": 1.9403,
+    "lon": 117.2439,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-24",
+    "waktu": "00:49"
+  },
+  {
+    "lat": 2.1916,
+    "lon": 117.2794,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-10-24",
+    "waktu": "00:49"
+  },
+  {
+    "lat": 1.7568,
+    "lon": 117.9519,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-24",
+    "waktu": "00:49"
+  },
+  {
+    "lat": 1.7547,
+    "lon": 117.9519,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-24",
+    "waktu": "00:49"
+  },
+  {
+    "lat": 1.5119,
+    "lon": 118.0722,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-24",
+    "waktu": "00:30"
+  },
+  {
+    "lat": 1.5118,
+    "lon": 118.0689,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-24",
+    "waktu": "00:49"
+  },
+  {
+    "lat": 1.5112,
+    "lon": 118.0728,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-24",
+    "waktu": "00:49"
+  }
+]
