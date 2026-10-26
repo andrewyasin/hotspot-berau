@@ -954,19 +954,21 @@
   },
   {
     "date": "2026-10-26",
-    "total": 19,
+    "total": 26,
     "by_kecamatan": {
-      "TABALAR": 7,
-      "GUNUNG TABUR": 3,
-      "SAMBALIUNG": 2,
+      "TABALAR": 9,
+      "GUNUNG TABUR": 4,
+      "SAMBALIUNG": 4,
+      "BIATAN": 2,
       "SEGAH": 2,
       "TELUK BAYUR": 2,
       "BATU PUTIH": 1,
-      "BIATAN": 1,
+      "BIDUK-BIDUK": 1,
       "KELAY": 1
     },
     "by_level": {
-      "Sedang": 19
+      "Sedang": 23,
+      "Rendah": 3
     }
   }
 ]

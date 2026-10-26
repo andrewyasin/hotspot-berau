@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-26T11:05:03.489Z",
-  "scrapedAt": "2026-10-26T19:20:32.375455+08:00",
+  "updatedAt": "2026-10-26T21:35:12.368Z",
+  "scrapedAt": "2026-10-27T05:43:53.426590+08:00",
   "sourceDate": "2026-10-26",
-  "totalKaltim": 677,
-  "totalBerau": 19,
+  "totalKaltim": 1004,
+  "totalBerau": 26,
   "points": [
     {
       "lat": 1.4233,
@@ -18,6 +18,18 @@
       "waktu": "00:11"
     },
     {
+      "lat": 1.534,
+      "lon": 118.0618,
+      "confidence": 7,
+      "level": "rendah",
+      "levelName": "Rendah",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-10-26",
+      "waktu": "12:33"
+    },
+    {
       "lat": 1.2835,
       "lon": 117.9423,
       "confidence": 8,
@@ -28,6 +40,30 @@
       "kecamatan": "BIATAN",
       "tanggal": "2026-10-26",
       "waktu": "12:53"
+    },
+    {
+      "lat": 1.1765,
+      "lon": 118.7396,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIDUK-BIDUK",
+      "tanggal": "2026-10-26",
+      "waktu": "23:54"
+    },
+    {
+      "lat": 2.5193,
+      "lon": 117.4871,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "GUNUNG TABUR",
+      "tanggal": "2026-10-26",
+      "waktu": "12:33"
     },
     {
       "lat": 2.2362,
@@ -78,6 +114,30 @@
       "waktu": "12:53"
     },
     {
+      "lat": 1.969,
+      "lon": 117.2788,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-10-26",
+      "waktu": "12:33"
+    },
+    {
+      "lat": 1.9682,
+      "lon": 117.2763,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-10-26",
+      "waktu": "12:33"
+    },
+    {
       "lat": 1.9941,
       "lon": 117.6493,
       "confidence": 8,
@@ -124,6 +184,30 @@
       "kecamatan": "SEGAH",
       "tanggal": "2026-10-26",
       "waktu": "00:11"
+    },
+    {
+      "lat": 1.7265,
+      "lon": 117.9069,
+      "confidence": 7,
+      "level": "rendah",
+      "levelName": "Rendah",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-10-26",
+      "waktu": "12:33"
+    },
+    {
+      "lat": 1.7251,
+      "lon": 117.8742,
+      "confidence": 7,
+      "level": "rendah",
+      "levelName": "Rendah",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-10-26",
+      "waktu": "12:33"
     },
     {
       "lat": 1.7747,
