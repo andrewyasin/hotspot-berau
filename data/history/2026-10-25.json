@@ -108,6 +108,30 @@
     "waktu": "00:11"
   },
   {
+    "lat": 1.7742,
+    "lon": 117.8731,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-25",
+    "waktu": "23:52"
+  },
+  {
+    "lat": 1.773,
+    "lon": 117.8749,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-25",
+    "waktu": "23:52"
+  },
+  {
     "lat": 1.7582,
     "lon": 117.9531,
     "confidence": 8,

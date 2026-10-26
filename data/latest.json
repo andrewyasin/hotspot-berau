@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T19:35:12.172Z",
-  "scrapedAt": "2026-10-26T03:49:15.590118+08:00",
+  "updatedAt": "2026-10-26T01:05:11.689Z",
+  "scrapedAt": "2026-10-26T09:26:41.551507+08:00",
   "sourceDate": "2026-10-25",
-  "totalKaltim": 295,
-  "totalBerau": 14,
+  "totalKaltim": 300,
+  "totalBerau": 16,
   "points": [
     {
       "lat": 1.422,
@@ -112,6 +112,30 @@
       "kecamatan": "TABALAR",
       "tanggal": "2026-10-25",
       "waktu": "00:11"
+    },
+    {
+      "lat": 1.7742,
+      "lon": 117.8731,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-10-25",
+      "waktu": "23:52"
+    },
+    {
+      "lat": 1.773,
+      "lon": 117.8749,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-10-25",
+      "waktu": "23:52"
     },
     {
       "lat": 1.7582,
