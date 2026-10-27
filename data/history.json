@@ -970,5 +970,15 @@
       "Sedang": 23,
       "Rendah": 3
     }
+  },
+  {
+    "date": "2026-10-27",
+    "total": 1,
+    "by_kecamatan": {
+      "BIDUK-BIDUK": 1
+    },
+    "by_level": {
+      "Sedang": 1
+    }
   }
 ]
