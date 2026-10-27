@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-27T10:35:04.497Z",
-  "scrapedAt": "2026-10-27T18:45:02.916914+08:00",
+  "updatedAt": "2026-10-27T21:05:12.268Z",
+  "scrapedAt": "2026-10-28T05:24:57.228177+08:00",
   "sourceDate": "2026-10-27",
-  "totalKaltim": 432,
-  "totalBerau": 13,
+  "totalKaltim": 575,
+  "totalBerau": 17,
   "points": [
     {
       "lat": 1.452,
@@ -28,6 +28,42 @@
       "kecamatan": "BIATAN",
       "tanggal": "2026-10-27",
       "waktu": "14:41"
+    },
+    {
+      "lat": 1.2798,
+      "lon": 117.9451,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-10-27",
+      "waktu": "12:16"
+    },
+    {
+      "lat": 1.3356,
+      "lon": 117.9533,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-10-27",
+      "waktu": "12:16"
+    },
+    {
+      "lat": 1.4232,
+      "lon": 118.0438,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-10-27",
+      "waktu": "12:16"
     },
     {
       "lat": 1.3327,
@@ -100,6 +136,18 @@
       "kecamatan": "KELAY",
       "tanggal": "2026-10-27",
       "waktu": "14:41"
+    },
+    {
+      "lat": 1.817,
+      "lon": 117.0998,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "TERRA",
+      "kabupaten": "BERAU",
+      "kecamatan": "KELAY",
+      "tanggal": "2026-10-27",
+      "waktu": "19:21"
     },
     {
       "lat": 1.9633,
