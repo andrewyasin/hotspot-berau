@@ -973,12 +973,19 @@
   },
   {
     "date": "2026-10-27",
-    "total": 1,
+    "total": 13,
     "by_kecamatan": {
-      "BIDUK-BIDUK": 1
+      "BIATAN": 5,
+      "SEGAH": 2,
+      "TALISAYAN": 2,
+      "BIDUK-BIDUK": 1,
+      "GUNUNG TABUR": 1,
+      "KELAY": 1,
+      "SAMBALIUNG": 1
     },
     "by_level": {
-      "Sedang": 1
+      "Sedang": 12,
+      "Tinggi": 1
     }
   }
 ]
