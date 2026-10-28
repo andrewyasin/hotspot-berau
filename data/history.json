@@ -990,12 +990,19 @@
   },
   {
     "date": "2026-10-28",
-    "total": 1,
+    "total": 22,
     "by_kecamatan": {
-      "KELAY": 1
+      "SAMBALIUNG": 6,
+      "BIATAN": 4,
+      "BIDUK-BIDUK": 4,
+      "TABALAR": 3,
+      "KELAY": 2,
+      "SEGAH": 2,
+      "TALISAYAN": 1
     },
     "by_level": {
-      "Sedang": 1
+      "Sedang": 21,
+      "Tinggi": 1
     }
   }
 ]
