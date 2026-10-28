@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "lat": 1.8171,
+    "lon": 117.0981,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "KELAY",
+    "tanggal": "2026-10-28",
+    "waktu": "00:56"
+  }
+]

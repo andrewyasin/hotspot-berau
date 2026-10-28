@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-10-28T02:05:03.896Z",
-  "scrapedAt": "2026-10-28T10:28:59.026246+08:00",
+  "updatedAt": "2026-10-28T11:05:03.443Z",
+  "scrapedAt": "2026-10-28T19:28:15.732925+08:00",
   "sourceDate": "2026-10-28",
-  "totalKaltim": 0,
-  "totalBerau": 0,
-  "points": []
+  "totalKaltim": 485,
+  "totalBerau": 1,
+  "points": [
+    {
+      "lat": 1.8171,
+      "lon": 117.0981,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "SNPP",
+      "kabupaten": "BERAU",
+      "kecamatan": "KELAY",
+      "tanggal": "2026-10-28",
+      "waktu": "00:56"
+    }
+  ]
 }
