@@ -12,6 +12,54 @@
     "waktu": "00:39"
   },
   {
+    "lat": 1.1815,
+    "lon": 118.7579,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIDUK-BIDUK",
+    "tanggal": "2026-10-29",
+    "waktu": "11:57"
+  },
+  {
+    "lat": 2.2436,
+    "lon": 117.5578,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-29",
+    "waktu": "11:57"
+  },
+  {
+    "lat": 2.2429,
+    "lon": 117.5535,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-29",
+    "waktu": "11:57"
+  },
+  {
+    "lat": 2.2412,
+    "lon": 117.5548,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-10-29",
+    "waktu": "11:57"
+  },
+  {
     "lat": 1.6047,
     "lon": 117.9445,
     "confidence": 8,
