@@ -1004,5 +1004,17 @@
       "Sedang": 21,
       "Tinggi": 1
     }
+  },
+  {
+    "date": "2026-10-29",
+    "total": 5,
+    "by_kecamatan": {
+      "TALISAYAN": 3,
+      "BIDUK-BIDUK": 1,
+      "TABALAR": 1
+    },
+    "by_level": {
+      "Sedang": 5
+    }
   }
 ]
