@@ -360,6 +360,18 @@
     "waktu": "14:56"
   },
   {
+    "lat": 1.9732,
+    "lon": 117.3076,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-30",
+    "waktu": "19:42"
+  },
+  {
     "lat": 1.9908,
     "lon": 117.6515,
     "confidence": 8,
@@ -730,6 +742,42 @@
     "kecamatan": "TALISAYAN",
     "tanggal": "2026-10-30",
     "waktu": "14:56"
+  },
+  {
+    "lat": 1.4263,
+    "lon": 118.2163,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-30",
+    "waktu": "19:42"
+  },
+  {
+    "lat": 1.4675,
+    "lon": 118.2552,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-30",
+    "waktu": "19:42"
+  },
+  {
+    "lat": 1.4663,
+    "lon": 118.2464,
+    "confidence": 9,
+    "level": "tinggi",
+    "levelName": "Tinggi",
+    "satelit": "TERRA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-30",
+    "waktu": "19:42"
   },
   {
     "lat": 1.4308,
