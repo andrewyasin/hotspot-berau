@@ -1018,5 +1018,18 @@
     "by_level": {
       "Sedang": 17
     }
+  },
+  {
+    "date": "2026-10-30",
+    "total": 9,
+    "by_kecamatan": {
+      "TABALAR": 3,
+      "TALISAYAN": 3,
+      "GUNUNG TABUR": 2,
+      "BIDUK-BIDUK": 1
+    },
+    "by_level": {
+      "Sedang": 9
+    }
   }
 ]
