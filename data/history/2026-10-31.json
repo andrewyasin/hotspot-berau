@@ -1,0 +1,122 @@
+[
+  {
+    "lat": 1.4226,
+    "lon": 118.3987,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BATU PUTIH",
+    "tanggal": "2026-10-31",
+    "waktu": "00:20"
+  },
+  {
+    "lat": 1.6766,
+    "lon": 118.0482,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIATAN",
+    "tanggal": "2026-10-31",
+    "waktu": "00:20"
+  },
+  {
+    "lat": 2.0792,
+    "lon": 117.4527,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-10-31",
+    "waktu": "00:17"
+  },
+  {
+    "lat": 1.7689,
+    "lon": 117.957,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-31",
+    "waktu": "00:17"
+  },
+  {
+    "lat": 1.5969,
+    "lon": 117.9477,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-10-31",
+    "waktu": "00:20"
+  },
+  {
+    "lat": 1.4701,
+    "lon": 118.2465,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-31",
+    "waktu": "00:00"
+  },
+  {
+    "lat": 1.4693,
+    "lon": 118.2518,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-31",
+    "waktu": "00:00"
+  },
+  {
+    "lat": 1.4711,
+    "lon": 118.2485,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-31",
+    "waktu": "00:20"
+  },
+  {
+    "lat": 1.4295,
+    "lon": 118.2201,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-31",
+    "waktu": "00:20"
+  },
+  {
+    "lat": 1.4179,
+    "lon": 118.2407,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-10-31",
+    "waktu": "00:20"
+  }
+]

@@ -1038,5 +1038,19 @@
       "Sedang": 67,
       "Tinggi": 6
     }
+  },
+  {
+    "date": "2026-10-31",
+    "total": 10,
+    "by_kecamatan": {
+      "TALISAYAN": 5,
+      "TABALAR": 2,
+      "BATU PUTIH": 1,
+      "BIATAN": 1,
+      "SAMBALIUNG": 1
+    },
+    "by_level": {
+      "Sedang": 10
+    }
   }
 ]
