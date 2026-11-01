@@ -1057,12 +1057,14 @@
   },
   {
     "date": "2026-11-01",
-    "total": 1,
+    "total": 3,
     "by_kecamatan": {
+      "BIDUK-BIDUK": 1,
+      "GUNUNG TABUR": 1,
       "SAMBALIUNG": 1
     },
     "by_level": {
-      "Sedang": 1
+      "Sedang": 3
     }
   }
 ]

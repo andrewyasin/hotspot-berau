@@ -1,5 +1,29 @@
 [
   {
+    "lat": 1.2224,
+    "lon": 118.7154,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIDUK-BIDUK",
+    "tanggal": "2026-11-01",
+    "waktu": "12:42"
+  },
+  {
+    "lat": 2.205,
+    "lon": 117.302,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "GUNUNG TABUR",
+    "tanggal": "2026-11-01",
+    "waktu": "12:42"
+  },
+  {
     "lat": 1.9103,
     "lon": 117.3539,
     "confidence": 8,
