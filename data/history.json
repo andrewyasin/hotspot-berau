@@ -1054,5 +1054,15 @@
     "by_level": {
       "Sedang": 25
     }
+  },
+  {
+    "date": "2026-11-01",
+    "total": 1,
+    "by_kecamatan": {
+      "SAMBALIUNG": 1
+    },
+    "by_level": {
+      "Sedang": 1
+    }
   }
 ]

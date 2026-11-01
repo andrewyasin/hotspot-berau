@@ -1,0 +1,14 @@
+[
+  {
+    "lat": 1.9103,
+    "lon": 117.3539,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-11-01",
+    "waktu": "01:19"
+  }
+]
