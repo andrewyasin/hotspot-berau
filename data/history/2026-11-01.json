@@ -34,5 +34,17 @@
     "kecamatan": "SAMBALIUNG",
     "tanggal": "2026-11-01",
     "waktu": "01:19"
+  },
+  {
+    "lat": 1.7356,
+    "lon": 117.9118,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-01",
+    "waktu": "12:22"
   }
 ]
