@@ -1070,16 +1070,15 @@
   },
   {
     "date": "2026-11-02",
-    "total": 16,
+    "total": 17,
     "by_kecamatan": {
-      "TALISAYAN": 10,
-      "BATU PUTIH": 2,
-      "BIATAN": 2,
-      "TABALAR": 2
+      "TALISAYAN": 11,
+      "BIATAN": 4,
+      "BATU PUTIH": 2
     },
     "by_level": {
-      "Sedang": 14,
-      "Rendah": 2
+      "Sedang": 16,
+      "Rendah": 1
     }
   }
 ]
