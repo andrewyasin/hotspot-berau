@@ -1,0 +1,26 @@
+[
+  {
+    "lat": 1.757,
+    "lon": 117.9542,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-02",
+    "waktu": "01:02"
+  },
+  {
+    "lat": 1.7557,
+    "lon": 117.951,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "SNPP",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-02",
+    "waktu": "01:02"
+  }
+]
