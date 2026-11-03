@@ -1083,15 +1083,15 @@
   },
   {
     "date": "2026-11-03",
-    "total": 11,
+    "total": 16,
     "by_kecamatan": {
+      "TABALAR": 6,
       "BIDUK-BIDUK": 5,
-      "TABALAR": 3,
-      "SEGAH": 2,
-      "KELAY": 1
+      "KELAY": 3,
+      "SEGAH": 2
     },
     "by_level": {
-      "Sedang": 8,
+      "Sedang": 13,
       "Tinggi": 2,
       "Rendah": 1
     }
