@@ -1098,11 +1098,11 @@
   },
   {
     "date": "2026-11-04",
-    "total": 54,
+    "total": 58,
     "by_kecamatan": {
-      "TABALAR": 26,
+      "TABALAR": 29,
+      "SEGAH": 9,
       "BIATAN": 8,
-      "SEGAH": 8,
       "BATU PUTIH": 2,
       "BIDUK-BIDUK": 2,
       "GUNUNG TABUR": 2,
@@ -1112,9 +1112,9 @@
       "PULAU DERAWAN": 1
     },
     "by_level": {
-      "Sedang": 46,
+      "Sedang": 49,
       "Tinggi": 6,
-      "Rendah": 2
+      "Rendah": 3
     }
   }
 ]
