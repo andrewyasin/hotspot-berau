@@ -1116,5 +1116,18 @@
       "Tinggi": 6,
       "Rendah": 3
     }
+  },
+  {
+    "date": "2026-11-05",
+    "total": 12,
+    "by_kecamatan": {
+      "SEGAH": 5,
+      "TABALAR": 5,
+      "BIATAN": 1,
+      "SAMBALIUNG": 1
+    },
+    "by_level": {
+      "Sedang": 12
+    }
   }
 ]
