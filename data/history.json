@@ -1119,15 +1119,17 @@
   },
   {
     "date": "2026-11-05",
-    "total": 12,
+    "total": 18,
     "by_kecamatan": {
-      "SEGAH": 5,
+      "SEGAH": 8,
       "TABALAR": 5,
+      "SAMBALIUNG": 2,
+      "BATU PUTIH": 1,
       "BIATAN": 1,
-      "SAMBALIUNG": 1
+      "PULAU DERAWAN": 1
     },
     "by_level": {
-      "Sedang": 12
+      "Sedang": 18
     }
   }
 ]

@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-11-05T03:35:04.423Z",
-  "scrapedAt": "2026-11-05T11:35:29.834407+08:00",
+  "updatedAt": "2026-11-05T13:05:02.977Z",
+  "scrapedAt": "2026-11-05T21:23:09.583534+08:00",
   "sourceDate": "2026-11-05",
-  "totalKaltim": 253,
-  "totalBerau": 12,
+  "totalKaltim": 422,
+  "totalBerau": 18,
   "points": [
+    {
+      "lat": 1.3509,
+      "lon": 118.4656,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "BATU PUTIH",
+      "tanggal": "2026-11-05",
+      "waktu": "12:10"
+    },
     {
       "lat": 1.6175,
       "lon": 117.9988,
@@ -16,6 +28,18 @@
       "kecamatan": "BIATAN",
       "tanggal": "2026-11-05",
       "waktu": "00:26"
+    },
+    {
+      "lat": 2.2821,
+      "lon": 117.915,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "PULAU DERAWAN",
+      "tanggal": "2026-11-05",
+      "waktu": "12:10"
     },
     {
       "lat": 2.122,
@@ -30,6 +54,18 @@
       "waktu": "01:08"
     },
     {
+      "lat": 2.0568,
+      "lon": 117.62,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-11-05",
+      "waktu": "12:10"
+    },
+    {
       "lat": 2.1934,
       "lon": 116.995,
       "confidence": 8,
@@ -40,6 +76,42 @@
       "kecamatan": "SEGAH",
       "tanggal": "2026-11-05",
       "waktu": "01:08"
+    },
+    {
+      "lat": 2.0814,
+      "lon": 117.061,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-11-05",
+      "waktu": "12:10"
+    },
+    {
+      "lat": 2.193,
+      "lon": 116.9963,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-11-05",
+      "waktu": "12:10"
+    },
+    {
+      "lat": 2.2038,
+      "lon": 117.0077,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-11-05",
+      "waktu": "12:10"
     },
     {
       "lat": 2.1949,
