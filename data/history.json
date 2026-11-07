@@ -1145,12 +1145,13 @@
   },
   {
     "date": "2026-11-07",
-    "total": 10,
+    "total": 14,
     "by_kecamatan": {
-      "KELAY": 10
+      "KELAY": 10,
+      "TABALAR": 4
     },
     "by_level": {
-      "Sedang": 10
+      "Sedang": 14
     }
   }
 ]

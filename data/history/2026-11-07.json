@@ -118,5 +118,53 @@
     "kecamatan": "KELAY",
     "tanggal": "2026-11-07",
     "waktu": "01:28"
+  },
+  {
+    "lat": 1.8641,
+    "lon": 117.832,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "AQUA",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-07",
+    "waktu": "15:05"
+  },
+  {
+    "lat": 1.8619,
+    "lon": 117.8345,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-07",
+    "waktu": "13:14"
+  },
+  {
+    "lat": 1.7303,
+    "lon": 117.883,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-07",
+    "waktu": "12:29"
+  },
+  {
+    "lat": 1.8512,
+    "lon": 117.777,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-07",
+    "waktu": "12:29"
   }
 ]
