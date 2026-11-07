@@ -1142,5 +1142,15 @@
     "by_level": {
       "Sedang": 4
     }
+  },
+  {
+    "date": "2026-11-07",
+    "total": 10,
+    "by_kecamatan": {
+      "KELAY": 10
+    },
+    "by_level": {
+      "Sedang": 10
+    }
   }
 ]
