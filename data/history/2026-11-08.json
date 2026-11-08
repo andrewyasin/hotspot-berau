@@ -70,5 +70,17 @@
     "kecamatan": "TALISAYAN",
     "tanggal": "2026-11-08",
     "waktu": "12:54"
+  },
+  {
+    "lat": 1.5989,
+    "lon": 118.1164,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-11-08",
+    "waktu": "23:54"
   }
 ]

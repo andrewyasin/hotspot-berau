@@ -1156,15 +1156,15 @@
   },
   {
     "date": "2026-11-08",
-    "total": 6,
+    "total": 7,
     "by_kecamatan": {
       "TABALAR": 3,
+      "TALISAYAN": 2,
       "KELAY": 1,
-      "SAMBALIUNG": 1,
-      "TALISAYAN": 1
+      "SAMBALIUNG": 1
     },
     "by_level": {
-      "Sedang": 6
+      "Sedang": 7
     }
   }
 ]
