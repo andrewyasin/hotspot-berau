@@ -1,0 +1,26 @@
+[
+  {
+    "lat": 1.8656,
+    "lon": 117.8343,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-08",
+    "waktu": "00:11"
+  },
+  {
+    "lat": 1.8614,
+    "lon": 117.8336,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-08",
+    "waktu": "00:11"
+  }
+]
