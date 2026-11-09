@@ -1,0 +1,38 @@
+[
+  {
+    "lat": 1.9294,
+    "lon": 117.2912,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SAMBALIUNG",
+    "tanggal": "2026-11-09",
+    "waktu": "00:49"
+  },
+  {
+    "lat": 1.7713,
+    "lon": 117.9559,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-09",
+    "waktu": "00:49"
+  },
+  {
+    "lat": 1.6016,
+    "lon": 118.1143,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TALISAYAN",
+    "tanggal": "2026-11-09",
+    "waktu": "00:49"
+  }
+]

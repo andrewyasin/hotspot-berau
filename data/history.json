@@ -1166,5 +1166,17 @@
     "by_level": {
       "Sedang": 7
     }
+  },
+  {
+    "date": "2026-11-09",
+    "total": 3,
+    "by_kecamatan": {
+      "SAMBALIUNG": 1,
+      "TABALAR": 1,
+      "TALISAYAN": 1
+    },
+    "by_level": {
+      "Sedang": 3
+    }
   }
 ]
