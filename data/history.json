@@ -1208,5 +1208,11 @@
     "by_level": {
       "Sedang": 2
     }
+  },
+  {
+    "date": "2026-11-12",
+    "total": 0,
+    "by_kecamatan": {},
+    "by_level": {}
   }
 ]

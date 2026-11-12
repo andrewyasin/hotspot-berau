@@ -1,33 +1,8 @@
 {
-  "updatedAt": "2026-11-11T23:05:12.677Z",
-  "scrapedAt": "2026-11-12T07:35:05.418621+08:00",
-  "sourceDate": "2026-11-11",
-  "totalKaltim": 245,
-  "totalBerau": 2,
-  "points": [
-    {
-      "lat": 1.5637,
-      "lon": 118.0242,
-      "confidence": 8,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NOAA20",
-      "kabupaten": "BERAU",
-      "kecamatan": "BIATAN",
-      "tanggal": "2026-11-11",
-      "waktu": "00:11"
-    },
-    {
-      "lat": 2.1223,
-      "lon": 117.5881,
-      "confidence": 8,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NOAA21",
-      "kabupaten": "BERAU",
-      "kecamatan": "SAMBALIUNG",
-      "tanggal": "2026-11-11",
-      "waktu": "00:56"
-    }
-  ]
+  "updatedAt": "2026-11-12T13:35:03.466Z",
+  "scrapedAt": "2026-11-12T21:53:51.836847+08:00",
+  "sourceDate": "2026-11-12",
+  "totalKaltim": 287,
+  "totalBerau": 0,
+  "points": []
 }
