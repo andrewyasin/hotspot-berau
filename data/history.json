@@ -1223,16 +1223,16 @@
   },
   {
     "date": "2026-11-14",
-    "total": 19,
+    "total": 23,
     "by_kecamatan": {
-      "SEGAH": 10,
-      "KELAY": 4,
+      "SEGAH": 12,
+      "KELAY": 6,
       "SAMBALIUNG": 4,
       "TELUK BAYUR": 1
     },
     "by_level": {
-      "Sedang": 17,
-      "Tinggi": 2
+      "Tinggi": 4,
+      "Sedang": 19
     }
   }
 ]
