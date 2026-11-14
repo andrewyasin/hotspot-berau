@@ -1220,5 +1220,17 @@
     "total": 0,
     "by_kecamatan": {},
     "by_level": {}
+  },
+  {
+    "date": "2026-11-14",
+    "total": 4,
+    "by_kecamatan": {
+      "KELAY": 2,
+      "SAMBALIUNG": 1,
+      "TELUK BAYUR": 1
+    },
+    "by_level": {
+      "Sedang": 4
+    }
   }
 ]
