@@ -1237,14 +1237,16 @@
   },
   {
     "date": "2026-11-15",
-    "total": 11,
+    "total": 14,
     "by_kecamatan": {
-      "KELAY": 5,
+      "KELAY": 6,
+      "SEGAH": 4,
       "SAMBALIUNG": 3,
-      "SEGAH": 3
+      "BATU PUTIH": 1
     },
     "by_level": {
-      "Sedang": 11
+      "Tinggi": 1,
+      "Sedang": 13
     }
   }
 ]

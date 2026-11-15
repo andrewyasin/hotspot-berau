@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-11-15T02:35:04.192Z",
-  "scrapedAt": "2026-11-15T10:54:49.864960+08:00",
+  "updatedAt": "2026-11-15T12:35:04.265Z",
+  "scrapedAt": "2026-11-15T20:52:39.780683+08:00",
   "sourceDate": "2026-11-15",
-  "totalKaltim": 202,
-  "totalBerau": 11,
+  "totalKaltim": 448,
+  "totalBerau": 14,
   "points": [
+    {
+      "lat": 1.352,
+      "lon": 118.0263,
+      "confidence": 9,
+      "level": "tinggi",
+      "levelName": "Tinggi",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "BATU PUTIH",
+      "tanggal": "2026-11-15",
+      "waktu": "15:13"
+    },
     {
       "lat": 1.6938,
       "lon": 117.1816,
@@ -40,6 +52,18 @@
       "kecamatan": "KELAY",
       "tanggal": "2026-11-15",
       "waktu": "01:21"
+    },
+    {
+      "lat": 1.7032,
+      "lon": 117.1724,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "KELAY",
+      "tanggal": "2026-11-15",
+      "waktu": "12:22"
     },
     {
       "lat": 1.6943,
@@ -100,6 +124,18 @@
       "kecamatan": "SAMBALIUNG",
       "tanggal": "2026-11-15",
       "waktu": "00:38"
+    },
+    {
+      "lat": 2.0396,
+      "lon": 117.2052,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "AQUA",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-11-15",
+      "waktu": "15:13"
     },
     {
       "lat": 2.2963,
