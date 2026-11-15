@@ -1234,5 +1234,17 @@
       "Tinggi": 4,
       "Sedang": 19
     }
+  },
+  {
+    "date": "2026-11-15",
+    "total": 11,
+    "by_kecamatan": {
+      "KELAY": 5,
+      "SAMBALIUNG": 3,
+      "SEGAH": 3
+    },
+    "by_level": {
+      "Sedang": 11
+    }
   }
 ]
