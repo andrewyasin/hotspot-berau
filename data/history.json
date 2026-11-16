@@ -1248,5 +1248,17 @@
       "Tinggi": 1,
       "Sedang": 13
     }
+  },
+  {
+    "date": "2026-11-16",
+    "total": 4,
+    "by_kecamatan": {
+      "SAMBALIUNG": 2,
+      "BATU PUTIH": 1,
+      "SEGAH": 1
+    },
+    "by_level": {
+      "Sedang": 4
+    }
   }
 ]
