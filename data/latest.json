@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T02:35:05.860Z",
-  "scrapedAt": "2026-11-16T10:55:11.142963+08:00",
+  "updatedAt": "2026-11-16T13:35:04.420Z",
+  "scrapedAt": "2026-11-16T21:52:24.241580+08:00",
   "sourceDate": "2026-11-16",
-  "totalKaltim": 110,
-  "totalBerau": 4,
+  "totalKaltim": 154,
+  "totalBerau": 16,
   "points": [
     {
       "lat": 1.359,
@@ -16,6 +16,54 @@
       "kecamatan": "BATU PUTIH",
       "tanggal": "2026-11-16",
       "waktu": "00:19"
+    },
+    {
+      "lat": 1.4611,
+      "lon": 117.9755,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-11-16",
+      "waktu": "12:03"
+    },
+    {
+      "lat": 1.5996,
+      "lon": 118.0914,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "BIATAN",
+      "tanggal": "2026-11-16",
+      "waktu": "12:59"
+    },
+    {
+      "lat": 1.7105,
+      "lon": 117.0786,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "KELAY",
+      "tanggal": "2026-11-16",
+      "waktu": "13:01"
+    },
+    {
+      "lat": 1.7102,
+      "lon": 117.0754,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "KELAY",
+      "tanggal": "2026-11-16",
+      "waktu": "13:01"
     },
     {
       "lat": 2.1215,
@@ -42,6 +90,42 @@
       "waktu": "01:02"
     },
     {
+      "lat": 1.9631,
+      "lon": 117.3117,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-11-16",
+      "waktu": "13:01"
+    },
+    {
+      "lat": 1.9671,
+      "lon": 117.3111,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-11-16",
+      "waktu": "13:01"
+    },
+    {
+      "lat": 2.3007,
+      "lon": 117.1471,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-11-16",
+      "waktu": "12:03"
+    },
+    {
       "lat": 2.0443,
       "lon": 117.2071,
       "confidence": 8,
@@ -52,6 +136,66 @@
       "kecamatan": "SEGAH",
       "tanggal": "2026-11-16",
       "waktu": "00:19"
+    },
+    {
+      "lat": 2.0582,
+      "lon": 117.1467,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-11-16",
+      "waktu": "13:01"
+    },
+    {
+      "lat": 2.0568,
+      "lon": 117.1439,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "SEGAH",
+      "tanggal": "2026-11-16",
+      "waktu": "13:01"
+    },
+    {
+      "lat": 1.784,
+      "lon": 117.8459,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-11-16",
+      "waktu": "12:03"
+    },
+    {
+      "lat": 1.8103,
+      "lon": 117.8915,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA21",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-11-16",
+      "waktu": "12:03"
+    },
+    {
+      "lat": 1.7829,
+      "lon": 117.8459,
+      "confidence": 8,
+      "level": "sedang",
+      "levelName": "Sedang",
+      "satelit": "NOAA20",
+      "kabupaten": "BERAU",
+      "kecamatan": "TABALAR",
+      "tanggal": "2026-11-16",
+      "waktu": "13:01"
     }
   ]
 }
