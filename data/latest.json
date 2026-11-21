@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-20T23:05:12.957Z",
-  "scrapedAt": "2026-11-21T07:14:00.835588+08:00",
-  "sourceDate": "2026-11-20",
-  "totalKaltim": 151,
+  "updatedAt": "2026-11-21T04:05:03.456Z",
+  "scrapedAt": "2026-11-21T12:07:12.597834+08:00",
+  "sourceDate": "2026-11-21",
+  "totalKaltim": 75,
   "totalBerau": 1,
   "points": [
     {
-      "lat": 1.4672,
-      "lon": 117.0929,
+      "lat": 2.1206,
+      "lon": 117.5885,
       "confidence": 8,
       "level": "sedang",
       "levelName": "Sedang",
-      "satelit": "NOAA20",
+      "satelit": "NOAA21",
       "kabupaten": "BERAU",
-      "kecamatan": "KELAY",
-      "tanggal": "2026-11-20",
-      "waktu": "00:43"
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-11-21",
+      "waktu": "01:08"
     }
   ]
 }
