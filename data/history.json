@@ -1319,12 +1319,14 @@
   },
   {
     "date": "2026-11-21",
-    "total": 1,
+    "total": 6,
     "by_kecamatan": {
+      "SEGAH": 4,
+      "KELAY": 1,
       "SAMBALIUNG": 1
     },
     "by_level": {
-      "Sedang": 1
+      "Sedang": 6
     }
   }
 ]
