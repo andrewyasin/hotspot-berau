@@ -1331,13 +1331,15 @@
   },
   {
     "date": "2026-11-22",
-    "total": 6,
+    "total": 11,
     "by_kecamatan": {
-      "KELAY": 4,
-      "SAMBALIUNG": 2
+      "KELAY": 5,
+      "TELUK BAYUR": 3,
+      "SAMBALIUNG": 2,
+      "SEGAH": 1
     },
     "by_level": {
-      "Sedang": 6
+      "Sedang": 11
     }
   }
 ]

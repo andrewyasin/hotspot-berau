@@ -12,6 +12,18 @@
     "waktu": "00:49"
   },
   {
+    "lat": 1.4701,
+    "lon": 117.0907,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "KELAY",
+    "tanggal": "2026-11-22",
+    "waktu": "11:53"
+  },
+  {
     "lat": 1.4685,
     "lon": 117.0892,
     "confidence": 8,
@@ -70,5 +82,53 @@
     "kecamatan": "SAMBALIUNG",
     "tanggal": "2026-11-22",
     "waktu": "00:49"
+  },
+  {
+    "lat": 2.1928,
+    "lon": 117.2812,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "SEGAH",
+    "tanggal": "2026-11-22",
+    "waktu": "12:48"
+  },
+  {
+    "lat": 2.0962,
+    "lon": 117.3779,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "TELUK BAYUR",
+    "tanggal": "2026-11-22",
+    "waktu": "11:53"
+  },
+  {
+    "lat": 2.08,
+    "lon": 117.3284,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TELUK BAYUR",
+    "tanggal": "2026-11-22",
+    "waktu": "12:48"
+  },
+  {
+    "lat": 2.0919,
+    "lon": 117.3784,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TELUK BAYUR",
+    "tanggal": "2026-11-22",
+    "waktu": "12:48"
   }
 ]
