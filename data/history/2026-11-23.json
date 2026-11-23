@@ -1,0 +1,14 @@
+[
+  {
+    "lat": 1.6395,
+    "lon": 117.1885,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "KELAY",
+    "tanggal": "2026-11-23",
+    "waktu": "00:32"
+  }
+]
