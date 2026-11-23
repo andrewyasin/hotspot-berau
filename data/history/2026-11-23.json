@@ -1,5 +1,17 @@
 [
   {
+    "lat": 1.1859,
+    "lon": 118.7581,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "BIDUK-BIDUK",
+    "tanggal": "2026-11-23",
+    "waktu": "12:29"
+  },
+  {
     "lat": 1.6395,
     "lon": 117.1885,
     "confidence": 8,
@@ -10,5 +22,29 @@
     "kecamatan": "KELAY",
     "tanggal": "2026-11-23",
     "waktu": "00:32"
+  },
+  {
+    "lat": 1.8146,
+    "lon": 117.8828,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-23",
+    "waktu": "13:12"
+  },
+  {
+    "lat": 1.8123,
+    "lon": 117.8848,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA20",
+    "kabupaten": "BERAU",
+    "kecamatan": "TABALAR",
+    "tanggal": "2026-11-23",
+    "waktu": "12:29"
   }
 ]

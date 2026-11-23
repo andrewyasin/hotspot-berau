@@ -1344,12 +1344,14 @@
   },
   {
     "date": "2026-11-23",
-    "total": 1,
+    "total": 4,
     "by_kecamatan": {
+      "TABALAR": 2,
+      "BIDUK-BIDUK": 1,
       "KELAY": 1
     },
     "by_level": {
-      "Sedang": 1
+      "Sedang": 4
     }
   }
 ]
