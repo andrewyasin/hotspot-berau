@@ -1353,5 +1353,16 @@
     "by_level": {
       "Sedang": 4
     }
+  },
+  {
+    "date": "2026-11-24",
+    "total": 2,
+    "by_kecamatan": {
+      "BATU PUTIH": 1,
+      "SAMBALIUNG": 1
+    },
+    "by_level": {
+      "Sedang": 2
+    }
   }
 ]

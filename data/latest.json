@@ -1,57 +1,33 @@
 {
-  "updatedAt": "2026-11-23T16:05:13.291Z",
-  "scrapedAt": "2026-11-24T00:17:24.239776+08:00",
-  "sourceDate": "2026-11-23",
-  "totalKaltim": 286,
-  "totalBerau": 4,
+  "updatedAt": "2026-11-24T03:05:04.546Z",
+  "scrapedAt": "2026-11-24T11:23:53.970323+08:00",
+  "sourceDate": "2026-11-24",
+  "totalKaltim": 55,
+  "totalBerau": 2,
   "points": [
     {
-      "lat": 1.1859,
-      "lon": 118.7581,
-      "confidence": 8,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NOAA20",
-      "kabupaten": "BERAU",
-      "kecamatan": "BIDUK-BIDUK",
-      "tanggal": "2026-11-23",
-      "waktu": "12:29"
-    },
-    {
-      "lat": 1.6395,
-      "lon": 117.1885,
+      "lat": 1.1954,
+      "lon": 118.0963,
       "confidence": 8,
       "level": "sedang",
       "levelName": "Sedang",
       "satelit": "NOAA21",
       "kabupaten": "BERAU",
-      "kecamatan": "KELAY",
-      "tanggal": "2026-11-23",
-      "waktu": "00:32"
+      "kecamatan": "BATU PUTIH",
+      "tanggal": "2026-11-24",
+      "waktu": "00:11"
     },
     {
-      "lat": 1.8146,
-      "lon": 117.8828,
-      "confidence": 8,
-      "level": "sedang",
-      "levelName": "Sedang",
-      "satelit": "NOAA21",
-      "kabupaten": "BERAU",
-      "kecamatan": "TABALAR",
-      "tanggal": "2026-11-23",
-      "waktu": "13:12"
-    },
-    {
-      "lat": 1.8123,
-      "lon": 117.8848,
+      "lat": 1.9312,
+      "lon": 117.2927,
       "confidence": 8,
       "level": "sedang",
       "levelName": "Sedang",
       "satelit": "NOAA20",
       "kabupaten": "BERAU",
-      "kecamatan": "TABALAR",
-      "tanggal": "2026-11-23",
-      "waktu": "12:29"
+      "kecamatan": "SAMBALIUNG",
+      "tanggal": "2026-11-24",
+      "waktu": "01:10"
     }
   ]
 }
