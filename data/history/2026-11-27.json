@@ -1,0 +1,26 @@
+[
+  {
+    "lat": 1.1912,
+    "lon": 118.0951,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "BATU PUTIH",
+    "tanggal": "2026-11-27",
+    "waktu": "00:56"
+  },
+  {
+    "lat": 1.1913,
+    "lon": 118.0958,
+    "confidence": 8,
+    "level": "sedang",
+    "levelName": "Sedang",
+    "satelit": "NOAA21",
+    "kabupaten": "BERAU",
+    "kecamatan": "BATU PUTIH",
+    "tanggal": "2026-11-27",
+    "waktu": "00:56"
+  }
+]
